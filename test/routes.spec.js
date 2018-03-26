@@ -10,15 +10,15 @@ const environment = process.env.NODE_ENV || 'test'
 const configuration = require('../knexfile')[environment]
 const db = require('knex')(configuration)
 
-beforeEach(done => {
-  database.migrate.rollback().then(() => {
-    database.migrate.latest().then(() => {
-      return database.seed.run().then(() => {
-        done();
-      });
-    });
-  });
-});
+// beforeEach(done => {
+//   database.migrate.rollback().then(() => {
+//     database.migrate.latest().then(() => {
+//       return database.seed.run().then(() => {
+//         done();
+//       });
+//     });
+//   });
+// });
 
 describe('Client Routes', () => {
   it('should be a passing test suite', () => {
