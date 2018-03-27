@@ -1,0 +1,4286 @@
+[
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1980,
+   "FIELD6": 13,
+   "FIELD7": 0.5
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1981,
+   "FIELD6": 15.3,
+   "FIELD7": 0.54
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1982,
+   "FIELD6": 17.6,
+   "FIELD7": 0.58
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1983,
+   "FIELD6": 16.4,
+   "FIELD7": 0.57
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1984,
+   "FIELD6": 13.6,
+   "FIELD7": 0.54
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1985,
+   "FIELD6": 13.1,
+   "FIELD7": 0.54
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1986,
+   "FIELD6": 13.6,
+   "FIELD7": 0.56
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1987,
+   "FIELD6": 11.7,
+   "FIELD7": 0.52
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1988,
+   "FIELD6": 10.8,
+   "FIELD7": 0.5
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1989,
+   "FIELD6": 10.1,
+   "FIELD7": 0.48
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1990,
+   "FIELD6": 10.9,
+   "FIELD7": 0.5
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1991,
+   "FIELD6": 13.3,
+   "FIELD7": 0.57
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1992,
+   "FIELD6": 13.7,
+   "FIELD7": 0.59
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1993,
+   "FIELD6": 12.6,
+   "FIELD7": 0.57
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1994,
+   "FIELD6": 11.8,
+   "FIELD7": 0.55
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1995,
+   "FIELD6": 11.2,
+   "FIELD7": 0.53
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1996,
+   "FIELD6": 11.7,
+   "FIELD7": 0.54
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1997,
+   "FIELD6": 11.1,
+   "FIELD7": 0.52
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1998,
+   "FIELD6": 9.9,
+   "FIELD7": 0.48
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1999,
+   "FIELD6": 9.6,
+   "FIELD7": 0.47
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2000,
+   "FIELD6": 9,
+   "FIELD7": 0.46
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2001,
+   "FIELD6": 10.2,
+   "FIELD7": 0.49
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2002,
+   "FIELD6": 12.1,
+   "FIELD7": 0.53
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2003,
+   "FIELD6": 11.5,
+   "FIELD7": 0.55
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2004,
+   "FIELD6": 11.9,
+   "FIELD7": 0.56
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2005,
+   "FIELD6": 11.1,
+   "FIELD7": 0.54
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2006,
+   "FIELD6": 10.2,
+   "FIELD7": 0.53
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2007,
+   "FIELD6": 10.6,
+   "FIELD7": 0.54
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2008,
+   "FIELD6": 12.2,
+   "FIELD7": 0.57
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2009,
+   "FIELD6": 17,
+   "FIELD7": 0.65
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2010,
+   "FIELD6": 18.1,
+   "FIELD7": 0.74
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2011,
+   "FIELD6": 16.7,
+   "FIELD7": 0.68
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2012,
+   "FIELD6": 16.7,
+   "FIELD7": 0.69
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2013,
+   "FIELD6": 16,
+   "FIELD7": 0.69
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1980,
+   "FIELD6": 8.5,
+   "FIELD7": 0.25
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1981,
+   "FIELD6": 9.1,
+   "FIELD7": 0.26
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1982,
+   "FIELD6": 11,
+   "FIELD7": 0.28
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1983,
+   "FIELD6": 10.3,
+   "FIELD7": 0.27
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1984,
+   "FIELD6": 8.8,
+   "FIELD7": 0.25
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1985,
+   "FIELD6": 8.5,
+   "FIELD7": 0.25
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1986,
+   "FIELD6": 8.1,
+   "FIELD7": 0.25
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1987,
+   "FIELD6": 7.4,
+   "FIELD7": 0.24
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1988,
+   "FIELD6": 6.7,
+   "FIELD7": 0.23
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1989,
+   "FIELD6": 6.8,
+   "FIELD7": 0.24
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1990,
+   "FIELD6": 6.8,
+   "FIELD7": 0.24
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1991,
+   "FIELD6": 8.1,
+   "FIELD7": 0.26
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1992,
+   "FIELD6": 8.3,
+   "FIELD7": 0.26
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1993,
+   "FIELD6": 7.9,
+   "FIELD7": 0.26
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1994,
+   "FIELD6": 7.4,
+   "FIELD7": 0.25
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1995,
+   "FIELD6": 7.4,
+   "FIELD7": 0.26
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1996,
+   "FIELD6": 7.4,
+   "FIELD7": 0.26
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1997,
+   "FIELD6": 6.4,
+   "FIELD7": 0.24
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1998,
+   "FIELD6": 6.3,
+   "FIELD7": 0.24
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1999,
+   "FIELD6": 6.1,
+   "FIELD7": 0.23
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2000,
+   "FIELD6": 5.8,
+   "FIELD7": 0.23
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2001,
+   "FIELD6": 6.1,
+   "FIELD7": 0.23
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2002,
+   "FIELD6": 7.4,
+   "FIELD7": 0.25
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2003,
+   "FIELD6": 7.6,
+   "FIELD7": 0.25
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2004,
+   "FIELD6": 7.1,
+   "FIELD7": 0.24
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2005,
+   "FIELD6": 6.4,
+   "FIELD7": 0.23
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2006,
+   "FIELD6": 6.3,
+   "FIELD7": 0.23
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2007,
+   "FIELD6": 6.2,
+   "FIELD7": 0.23
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2008,
+   "FIELD6": 7.5,
+   "FIELD7": 0.25
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2009,
+   "FIELD6": 10.4,
+   "FIELD7": 0.29
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2010,
+   "FIELD6": 11,
+   "FIELD7": 0.3
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2011,
+   "FIELD6": 11.4,
+   "FIELD7": 0.3
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2012,
+   "FIELD6": 10.1,
+   "FIELD7": 0.29
+ },
+ {
+   "FIELD1": "White, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "White, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2013,
+   "FIELD6": 9.7,
+   "FIELD7": 0.28
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1980,
+   "FIELD6": 36.2,
+   "FIELD7": 1.85
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1981,
+   "FIELD6": 39.2,
+   "FIELD7": 1.89
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1982,
+   "FIELD6": 47,
+   "FIELD7": 1.91
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1983,
+   "FIELD6": 47.3,
+   "FIELD7": 1.91
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1984,
+   "FIELD6": 42.1,
+   "FIELD7": 1.89
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1985,
+   "FIELD6": 40,
+   "FIELD7": 1.85
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1986,
+   "FIELD6": 38.1,
+   "FIELD7": 1.88
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1987,
+   "FIELD6": 31.7,
+   "FIELD7": 1.83
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1988,
+   "FIELD6": 31.8,
+   "FIELD7": 1.84
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1989,
+   "FIELD6": 30.2,
+   "FIELD7": 1.79
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1990,
+   "FIELD6": 28.2,
+   "FIELD7": 1.77
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1991,
+   "FIELD6": 35,
+   "FIELD7": 1.96
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1992,
+   "FIELD6": 38.9,
+   "FIELD7": 1.93
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1993,
+   "FIELD6": 38.5,
+   "FIELD7": 1.96
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1994,
+   "FIELD6": 36.5,
+   "FIELD7": 1.96
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1995,
+   "FIELD6": 35.3,
+   "FIELD7": 1.93
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1996,
+   "FIELD6": 34.8,
+   "FIELD7": 1.9
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1997,
+   "FIELD6": 34.6,
+   "FIELD7": 1.94
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1998,
+   "FIELD6": 28,
+   "FIELD7": 1.7
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1999,
+   "FIELD6": 29.2,
+   "FIELD7": 1.77
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2000,
+   "FIELD6": 24.9,
+   "FIELD7": 1.71
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2001,
+   "FIELD6": 30.2,
+   "FIELD7": 1.82
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2002,
+   "FIELD6": 28.6,
+   "FIELD7": 1.74
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2003,
+   "FIELD6": 36.4,
+   "FIELD7": 2.11
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2004,
+   "FIELD6": 32.5,
+   "FIELD7": 2.04
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2005,
+   "FIELD6": 31.5,
+   "FIELD7": 1.91
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2006,
+   "FIELD6": 31.6,
+   "FIELD7": 1.93
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2007,
+   "FIELD6": 30.4,
+   "FIELD7": 1.94
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2008,
+   "FIELD6": 32.2,
+   "FIELD7": 1.92
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2009,
+   "FIELD6": 44.4,
+   "FIELD7": 2.13
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2010,
+   "FIELD6": 43.9,
+   "FIELD7": 2.2
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2011,
+   "FIELD6": 42.3,
+   "FIELD7": 2.11
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2012,
+   "FIELD6": 38.9,
+   "FIELD7": 2.09
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2013,
+   "FIELD6": 41.7,
+   "FIELD7": 2.1
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1980,
+   "FIELD6": 23.7,
+   "FIELD7": 1.13
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1981,
+   "FIELD6": 26.4,
+   "FIELD7": 1.17
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1982,
+   "FIELD6": 31.5,
+   "FIELD7": 1.22
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1983,
+   "FIELD6": 31.4,
+   "FIELD7": 1.2
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1984,
+   "FIELD6": 26.6,
+   "FIELD7": 1.13
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1985,
+   "FIELD6": 23.6,
+   "FIELD7": 1.12
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1986,
+   "FIELD6": 23.5,
+   "FIELD7": 1.12
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1987,
+   "FIELD6": 20.4,
+   "FIELD7": 1.09
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1988,
+   "FIELD6": 19.4,
+   "FIELD7": 1.07
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1989,
+   "FIELD6": 17.9,
+   "FIELD7": 1.04
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1990,
+   "FIELD6": 20.1,
+   "FIELD7": 1.1
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1991,
+   "FIELD6": 22.4,
+   "FIELD7": 1.14
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1992,
+   "FIELD6": 24.6,
+   "FIELD7": 1.17
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1993,
+   "FIELD6": 23,
+   "FIELD7": 1.16
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1994,
+   "FIELD6": 19.4,
+   "FIELD7": 1.08
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1995,
+   "FIELD6": 17.7,
+   "FIELD7": 1.06
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1996,
+   "FIELD6": 19.2,
+   "FIELD7": 1.1
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1997,
+   "FIELD6": 19.8,
+   "FIELD7": 1.13
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1998,
+   "FIELD6": 18,
+   "FIELD7": 1.08
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1999,
+   "FIELD6": 16.2,
+   "FIELD7": 1.04
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2000,
+   "FIELD6": 16.6,
+   "FIELD7": 1.03
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2001,
+   "FIELD6": 17.6,
+   "FIELD7": 1.06
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2002,
+   "FIELD6": 20,
+   "FIELD7": 1.08
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2003,
+   "FIELD6": 20.9,
+   "FIELD7": 1.09
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2004,
+   "FIELD6": 20.3,
+   "FIELD7": 1.08
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2005,
+   "FIELD6": 20.4,
+   "FIELD7": 1.07
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2006,
+   "FIELD6": 17.2,
+   "FIELD7": 0.99
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2007,
+   "FIELD6": 16.9,
+   "FIELD7": 0.98
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2008,
+   "FIELD6": 19.3,
+   "FIELD7": 1.03
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2009,
+   "FIELD6": 27.7,
+   "FIELD7": 1.18
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2010,
+   "FIELD6": 29.8,
+   "FIELD7": 1.18
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2011,
+   "FIELD6": 27.5,
+   "FIELD7": 1.14
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2012,
+   "FIELD6": 25.5,
+   "FIELD7": 1.1
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2013,
+   "FIELD6": 25,
+   "FIELD7": 1.07
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1980,
+   "FIELD6": 38.2,
+   "FIELD7": 1.97
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1981,
+   "FIELD6": 39.8,
+   "FIELD7": 2.01
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1982,
+   "FIELD6": 48.4,
+   "FIELD7": 2.07
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1983,
+   "FIELD6": 47.9,
+   "FIELD7": 2.05
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1984,
+   "FIELD6": 40,
+   "FIELD7": 2.02
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1985,
+   "FIELD6": 36.6,
+   "FIELD7": 1.95
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1986,
+   "FIELD6": 36.2,
+   "FIELD7": 1.95
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1987,
+   "FIELD6": 31.7,
+   "FIELD7": 1.85
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1988,
+   "FIELD6": 29.8,
+   "FIELD7": 1.87
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1989,
+   "FIELD6": 34.2,
+   "FIELD7": 1.88
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1990,
+   "FIELD6": 27.5,
+   "FIELD7": 1.78
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1991,
+   "FIELD6": 33.9,
+   "FIELD7": 1.99
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1992,
+   "FIELD6": 34.9,
+   "FIELD7": 1.99
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1993,
+   "FIELD6": 38.2,
+   "FIELD7": 2.02
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1994,
+   "FIELD6": 32.3,
+   "FIELD7": 2.02
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1995,
+   "FIELD6": 31.5,
+   "FIELD7": 1.86
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1996,
+   "FIELD6": 28.6,
+   "FIELD7": 1.79
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1997,
+   "FIELD6": 27.7,
+   "FIELD7": 1.68
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1998,
+   "FIELD6": 20.9,
+   "FIELD7": 1.47
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1999,
+   "FIELD6": 23.4,
+   "FIELD7": 1.58
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2000,
+   "FIELD6": 21.3,
+   "FIELD7": 1.56
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2001,
+   "FIELD6": 25.4,
+   "FIELD7": 1.71
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2002,
+   "FIELD6": 25.7,
+   "FIELD7": 1.75
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2003,
+   "FIELD6": 31,
+   "FIELD7": 1.92
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2004,
+   "FIELD6": 24.3,
+   "FIELD7": 1.77
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2005,
+   "FIELD6": 26.4,
+   "FIELD7": 1.8
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2006,
+   "FIELD6": 23.6,
+   "FIELD7": 1.63
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2007,
+   "FIELD6": 24.8,
+   "FIELD7": 1.8
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2008,
+   "FIELD6": 25,
+   "FIELD7": 1.8
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2009,
+   "FIELD6": 31.5,
+   "FIELD7": 1.91
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2010,
+   "FIELD6": 37.8,
+   "FIELD7": 2.14
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2011,
+   "FIELD6": 34.7,
+   "FIELD7": 2.13
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2012,
+   "FIELD6": 32.9,
+   "FIELD7": 1.94
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2013,
+   "FIELD6": 30,
+   "FIELD7": 1.9
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1980,
+   "FIELD6": 23.5,
+   "FIELD7": 0.93
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1981,
+   "FIELD6": 26.5,
+   "FIELD7": 0.96
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1982,
+   "FIELD6": 29.5,
+   "FIELD7": 1.05
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1983,
+   "FIELD6": 31.8,
+   "FIELD7": 1.04
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1984,
+   "FIELD6": 25.6,
+   "FIELD7": 0.91
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1985,
+   "FIELD6": 25.6,
+   "FIELD7": 0.9
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1986,
+   "FIELD6": 24.7,
+   "FIELD7": 0.92
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1987,
+   "FIELD6": 23.3,
+   "FIELD7": 0.88
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1988,
+   "FIELD6": 19.8,
+   "FIELD7": 0.88
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1989,
+   "FIELD6": 18.1,
+   "FIELD7": 0.92
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1990,
+   "FIELD6": 19.6,
+   "FIELD7": 0.86
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1991,
+   "FIELD6": 20.7,
+   "FIELD7": 0.92
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1992,
+   "FIELD6": 23.2,
+   "FIELD7": 0.94
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1993,
+   "FIELD6": 20.9,
+   "FIELD7": 0.97
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1994,
+   "FIELD6": 19.6,
+   "FIELD7": 0.95
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1995,
+   "FIELD6": 17.8,
+   "FIELD7": 0.94
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1996,
+   "FIELD6": 18.4,
+   "FIELD7": 0.97
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1997,
+   "FIELD6": 17.1,
+   "FIELD7": 0.85
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1998,
+   "FIELD6": 15.6,
+   "FIELD7": 0.81
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1999,
+   "FIELD6": 13.4,
+   "FIELD7": 0.75
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2000,
+   "FIELD6": 13.6,
+   "FIELD7": 0.76
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2001,
+   "FIELD6": 15.3,
+   "FIELD7": 0.72
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2002,
+   "FIELD6": 18.3,
+   "FIELD7": 0.82
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2003,
+   "FIELD6": 18.8,
+   "FIELD7": 0.85
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2004,
+   "FIELD6": 16.6,
+   "FIELD7": 0.77
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2005,
+   "FIELD6": 16.3,
+   "FIELD7": 0.76
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2006,
+   "FIELD6": 15.2,
+   "FIELD7": 0.73
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2007,
+   "FIELD6": 13.6,
+   "FIELD7": 0.74
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2008,
+   "FIELD6": 16.6,
+   "FIELD7": 0.83
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2009,
+   "FIELD6": 22.1,
+   "FIELD7": 0.96
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2010,
+   "FIELD6": 22.6,
+   "FIELD7": 0.95
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2011,
+   "FIELD6": 23.1,
+   "FIELD7": 0.93
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2012,
+   "FIELD6": 20.8,
+   "FIELD7": 0.85
+ },
+ {
+   "FIELD1": "Black, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Black, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2013,
+   "FIELD6": 20.5,
+   "FIELD7": 0.8
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1980,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1981,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1982,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1983,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1984,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1985,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1986,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1987,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1988,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1989,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1990,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1991,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1992,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1993,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1994,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1995,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1996,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1997,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1998,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1999,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2000,
+   "FIELD6": 14,
+   "FIELD7": 2.56
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2001,
+   "FIELD6": 11.2,
+   "FIELD7": 2.46
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2002,
+   "FIELD6": 17.9,
+   "FIELD7": 2.99
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2003,
+   "FIELD6": 17.8,
+   "FIELD7": 3.31
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2004,
+   "FIELD6": 12.4,
+   "FIELD7": 3.02
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2005,
+   "FIELD6": 13.1,
+   "FIELD7": 3.28
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2006,
+   "FIELD6": 13.6,
+   "FIELD7": 3.24
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2007,
+   "FIELD6": 10.1,
+   "FIELD7": 2.93
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2008,
+   "FIELD6": 12.5,
+   "FIELD7": 3.19
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2009,
+   "FIELD6": 22.4,
+   "FIELD7": 3.95
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2010,
+   "FIELD6": 24.4,
+   "FIELD7": 4.07
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2011,
+   "FIELD6": 28.8,
+   "FIELD7": 4.4
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2012,
+   "FIELD6": 24.2,
+   "FIELD7": 4.09
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2013,
+   "FIELD6": 20.3,
+   "FIELD7": 3.32
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1980,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1981,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1982,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1983,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1984,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1985,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1986,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1987,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1988,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1989,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1990,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1991,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1992,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1993,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1994,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1995,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1996,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1997,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1998,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1999,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2000,
+   "FIELD6": 7.9,
+   "FIELD7": 1.09
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2001,
+   "FIELD6": 9.8,
+   "FIELD7": 1.17
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2002,
+   "FIELD6": 10.9,
+   "FIELD7": 1.24
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2003,
+   "FIELD6": 9.9,
+   "FIELD7": 1.29
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2004,
+   "FIELD6": 8.2,
+   "FIELD7": 1.18
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2005,
+   "FIELD6": 9,
+   "FIELD7": 1.22
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2006,
+   "FIELD6": 7,
+   "FIELD7": 1.12
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2007,
+   "FIELD6": 6.9,
+   "FIELD7": 1.11
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2008,
+   "FIELD6": 6.5,
+   "FIELD7": 1.08
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2009,
+   "FIELD6": 12.3,
+   "FIELD7": 1.48
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2010,
+   "FIELD6": 14.2,
+   "FIELD7": 1.53
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2011,
+   "FIELD6": 11.7,
+   "FIELD7": 1.4
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2012,
+   "FIELD6": 10.2,
+   "FIELD7": 1.19
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2013,
+   "FIELD6": 12.4,
+   "FIELD7": 1.26
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1980,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1981,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1982,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1983,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1984,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1985,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1986,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1987,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1988,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1989,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1990,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1991,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1992,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1993,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1994,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1995,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1996,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1997,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1998,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1999,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2000,
+   "FIELD6": 13.5,
+   "FIELD7": 2.63
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2001,
+   "FIELD6": 10.9,
+   "FIELD7": 2.62
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2002,
+   "FIELD6": 10.7,
+   "FIELD7": 2.52
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2003,
+   "FIELD6": 14.8,
+   "FIELD7": 3.74
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2004,
+   "FIELD6": 7.8,
+   "FIELD7": 2.77
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2005,
+   "FIELD6": 6.2,
+   "FIELD7": 2.51
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2006,
+   "FIELD6": 9.9,
+   "FIELD7": 3.33
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2007,
+   "FIELD6": 12.9,
+   "FIELD7": 3.23
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2008,
+   "FIELD6": 15.7,
+   "FIELD7": 3.92
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2009,
+   "FIELD6": 24,
+   "FIELD7": 5.09
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2010,
+   "FIELD6": 20.8,
+   "FIELD7": 4.19
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2011,
+   "FIELD6": 21.6,
+   "FIELD7": 4.04
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2012,
+   "FIELD6": 19.7,
+   "FIELD7": 3.61
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2013,
+   "FIELD6": 19.3,
+   "FIELD7": 3.8
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1980,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1981,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1982,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1983,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1984,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1985,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1986,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1987,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1988,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1989,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1990,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1991,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1992,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1993,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1994,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1995,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1996,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1997,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1998,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1999,
+   "FIELD6": null,
+   "FIELD7": null
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2000,
+   "FIELD6": 5.8,
+   "FIELD7": 1.01
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2001,
+   "FIELD6": 6.3,
+   "FIELD7": 1.03
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2002,
+   "FIELD6": 9.4,
+   "FIELD7": 1.23
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2003,
+   "FIELD6": 8.1,
+   "FIELD7": 1.23
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2004,
+   "FIELD6": 9,
+   "FIELD7": 1.26
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2005,
+   "FIELD6": 3.8,
+   "FIELD7": 0.85
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2006,
+   "FIELD6": 4,
+   "FIELD7": 0.9
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2007,
+   "FIELD6": 4.2,
+   "FIELD7": 0.87
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2008,
+   "FIELD6": 6.1,
+   "FIELD7": 1.06
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2009,
+   "FIELD6": 11.3,
+   "FIELD7": 1.48
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2010,
+   "FIELD6": 10.2,
+   "FIELD7": 1.4
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2011,
+   "FIELD6": 10.1,
+   "FIELD7": 1.36
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2012,
+   "FIELD6": 10.9,
+   "FIELD7": 1.33
+ },
+ {
+   "FIELD1": "Asian, non-Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Asian, non-Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2013,
+   "FIELD6": 7.4,
+   "FIELD7": 1.04
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1980,
+   "FIELD6": 19.2,
+   "FIELD7": 1.74
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1981,
+   "FIELD6": 20.5,
+   "FIELD7": 1.84
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1982,
+   "FIELD6": 26.7,
+   "FIELD7": 2.06
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1983,
+   "FIELD6": 25.9,
+   "FIELD7": 1.96
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1984,
+   "FIELD6": 22,
+   "FIELD7": 1.88
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1985,
+   "FIELD6": 22.5,
+   "FIELD7": 1.95
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1986,
+   "FIELD6": 22.5,
+   "FIELD7": 1.94
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1987,
+   "FIELD6": 19.3,
+   "FIELD7": 1.79
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1988,
+   "FIELD6": 19.6,
+   "FIELD7": 1.72
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1989,
+   "FIELD6": 16.6,
+   "FIELD7": 1.56
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1990,
+   "FIELD6": 17.3,
+   "FIELD7": 1.41
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1991,
+   "FIELD6": 19.1,
+   "FIELD7": 1.51
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1992,
+   "FIELD6": 23.9,
+   "FIELD7": 1.66
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1993,
+   "FIELD6": 21.9,
+   "FIELD7": 1.62
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1994,
+   "FIELD6": 22.3,
+   "FIELD7": 1.66
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1995,
+   "FIELD6": 20.3,
+   "FIELD7": 1.58
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1996,
+   "FIELD6": 18.5,
+   "FIELD7": 1.46
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1997,
+   "FIELD6": 17.8,
+   "FIELD7": 1.41
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1998,
+   "FIELD6": 16.4,
+   "FIELD7": 1.32
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1999,
+   "FIELD6": 15.2,
+   "FIELD7": 1.22
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2000,
+   "FIELD6": 12.7,
+   "FIELD7": 1.06
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2001,
+   "FIELD6": 13.4,
+   "FIELD7": 1.07
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2002,
+   "FIELD6": 19.2,
+   "FIELD7": 1.28
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2003,
+   "FIELD6": 20.1,
+   "FIELD7": 1.44
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2004,
+   "FIELD6": 17.6,
+   "FIELD7": 1.3
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2005,
+   "FIELD6": 17.6,
+   "FIELD7": 1.32
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2006,
+   "FIELD6": 14.8,
+   "FIELD7": 1.21
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2007,
+   "FIELD6": 18,
+   "FIELD7": 1.31
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2008,
+   "FIELD6": 19.8,
+   "FIELD7": 1.34
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2009,
+   "FIELD6": 31.2,
+   "FIELD7": 1.56
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2010,
+   "FIELD6": 32.6,
+   "FIELD7": 1.6
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2011,
+   "FIELD6": 31,
+   "FIELD7": 1.57
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2012,
+   "FIELD6": 26.9,
+   "FIELD7": 1.43
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2013,
+   "FIELD6": 25.9,
+   "FIELD7": 1.44
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1980,
+   "FIELD6": 12.2,
+   "FIELD7": 0.99
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1981,
+   "FIELD6": 14.1,
+   "FIELD7": 1.01
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1982,
+   "FIELD6": 18.2,
+   "FIELD7": 1.12
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1983,
+   "FIELD6": 17,
+   "FIELD7": 1.07
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1984,
+   "FIELD6": 12.5,
+   "FIELD7": 0.92
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1985,
+   "FIELD6": 12.9,
+   "FIELD7": 0.92
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1986,
+   "FIELD6": 13,
+   "FIELD7": 0.9
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1987,
+   "FIELD6": 10.2,
+   "FIELD7": 0.82
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1988,
+   "FIELD6": 9.3,
+   "FIELD7": 0.77
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1989,
+   "FIELD6": 9.7,
+   "FIELD7": 0.78
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1990,
+   "FIELD6": 8.4,
+   "FIELD7": 0.64
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1991,
+   "FIELD6": 11.6,
+   "FIELD7": 0.74
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1992,
+   "FIELD6": 13.7,
+   "FIELD7": 0.81
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1993,
+   "FIELD6": 12.6,
+   "FIELD7": 0.78
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1994,
+   "FIELD6": 10.8,
+   "FIELD7": 0.72
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1995,
+   "FIELD6": 10.7,
+   "FIELD7": 0.73
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1996,
+   "FIELD6": 10.3,
+   "FIELD7": 0.72
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1997,
+   "FIELD6": 9.9,
+   "FIELD7": 0.67
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1998,
+   "FIELD6": 8.9,
+   "FIELD7": 0.63
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1999,
+   "FIELD6": 7.8,
+   "FIELD7": 0.61
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2000,
+   "FIELD6": 6.6,
+   "FIELD7": 0.5
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2001,
+   "FIELD6": 8.1,
+   "FIELD7": 0.54
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2002,
+   "FIELD6": 9.3,
+   "FIELD7": 0.57
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2003,
+   "FIELD6": 9.6,
+   "FIELD7": 0.58
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2004,
+   "FIELD6": 9.5,
+   "FIELD7": 0.57
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2005,
+   "FIELD6": 8.1,
+   "FIELD7": 0.54
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2006,
+   "FIELD6": 6.7,
+   "FIELD7": 0.49
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2007,
+   "FIELD6": 7.4,
+   "FIELD7": 0.51
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2008,
+   "FIELD6": 11.8,
+   "FIELD7": 0.64
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2009,
+   "FIELD6": 16.5,
+   "FIELD7": 0.75
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2010,
+   "FIELD6": 18.2,
+   "FIELD7": 0.77
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2011,
+   "FIELD6": 15.3,
+   "FIELD7": 0.67
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2012,
+   "FIELD6": 13.8,
+   "FIELD7": 0.64
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Male",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2013,
+   "FIELD6": 13.4,
+   "FIELD7": 0.63
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1980,
+   "FIELD6": 19.5,
+   "FIELD7": 2.17
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1981,
+   "FIELD6": 23.3,
+   "FIELD7": 2.32
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1982,
+   "FIELD6": 25,
+   "FIELD7": 2.28
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1983,
+   "FIELD6": 25.9,
+   "FIELD7": 2.38
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1984,
+   "FIELD6": 20.9,
+   "FIELD7": 2.11
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1985,
+   "FIELD6": 23,
+   "FIELD7": 2.29
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1986,
+   "FIELD6": 23.8,
+   "FIELD7": 2.43
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1987,
+   "FIELD6": 19.9,
+   "FIELD7": 2.11
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1988,
+   "FIELD6": 18.7,
+   "FIELD7": 2
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1989,
+   "FIELD6": 15.1,
+   "FIELD7": 1.82
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1990,
+   "FIELD6": 16.4,
+   "FIELD7": 1.78
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1991,
+   "FIELD6": 17.9,
+   "FIELD7": 1.84
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1992,
+   "FIELD6": 22.4,
+   "FIELD7": 1.95
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1993,
+   "FIELD6": 21.9,
+   "FIELD7": 1.95
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1994,
+   "FIELD6": 18,
+   "FIELD7": 1.78
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1995,
+   "FIELD6": 18.5,
+   "FIELD7": 1.7
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1996,
+   "FIELD6": 23.5,
+   "FIELD7": 1.97
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1997,
+   "FIELD6": 19,
+   "FIELD7": 1.74
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1998,
+   "FIELD6": 20.3,
+   "FIELD7": 1.58
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 1999,
+   "FIELD6": 17.9,
+   "FIELD7": 1.52
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2000,
+   "FIELD6": 15.5,
+   "FIELD7": 1.38
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2001,
+   "FIELD6": 17.1,
+   "FIELD7": 1.41
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2002,
+   "FIELD6": 16.9,
+   "FIELD7": 1.45
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2003,
+   "FIELD6": 14.4,
+   "FIELD7": 1.47
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2004,
+   "FIELD6": 15.6,
+   "FIELD7": 1.48
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2005,
+   "FIELD6": 13.9,
+   "FIELD7": 1.36
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2006,
+   "FIELD6": 12,
+   "FIELD7": 1.3
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2007,
+   "FIELD6": 13.6,
+   "FIELD7": 1.3
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2008,
+   "FIELD6": 18,
+   "FIELD7": 1.43
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2009,
+   "FIELD6": 23.7,
+   "FIELD7": 1.59
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2010,
+   "FIELD6": 27.1,
+   "FIELD7": 1.75
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2011,
+   "FIELD6": 24.9,
+   "FIELD7": 1.73
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2012,
+   "FIELD6": 25,
+   "FIELD7": 1.58
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 18-19",
+   "FIELD5": 2013,
+   "FIELD6": 23.8,
+   "FIELD7": 1.55
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1980,
+   "FIELD6": 12.1,
+   "FIELD7": 1.19
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1981,
+   "FIELD6": 13.4,
+   "FIELD7": 1.18
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1982,
+   "FIELD6": 16.9,
+   "FIELD7": 1.29
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1983,
+   "FIELD6": 16.2,
+   "FIELD7": 1.27
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1984,
+   "FIELD6": 12.1,
+   "FIELD7": 1.11
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1985,
+   "FIELD6": 12,
+   "FIELD7": 1.08
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1986,
+   "FIELD6": 12.9,
+   "FIELD7": 1.12
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1987,
+   "FIELD6": 11.4,
+   "FIELD7": 1.03
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1988,
+   "FIELD6": 10.7,
+   "FIELD7": 0.97
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1989,
+   "FIELD6": 12.2,
+   "FIELD7": 1.04
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1990,
+   "FIELD6": 10.4,
+   "FIELD7": 0.91
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1991,
+   "FIELD6": 11.7,
+   "FIELD7": 0.98
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1992,
+   "FIELD6": 12.5,
+   "FIELD7": 0.97
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1993,
+   "FIELD6": 14,
+   "FIELD7": 1.03
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1994,
+   "FIELD6": 13.5,
+   "FIELD7": 1
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1995,
+   "FIELD6": 12.9,
+   "FIELD7": 0.99
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1996,
+   "FIELD6": 14,
+   "FIELD7": 0.99
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1997,
+   "FIELD6": 11,
+   "FIELD7": 0.88
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1998,
+   "FIELD6": 10.1,
+   "FIELD7": 0.82
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 1999,
+   "FIELD6": 9.1,
+   "FIELD7": 0.77
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2000,
+   "FIELD6": 9,
+   "FIELD7": 0.71
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2001,
+   "FIELD6": 8.2,
+   "FIELD7": 0.66
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2002,
+   "FIELD6": 10.8,
+   "FIELD7": 0.73
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2003,
+   "FIELD6": 11.3,
+   "FIELD7": 0.75
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2004,
+   "FIELD6": 9.2,
+   "FIELD7": 0.68
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2005,
+   "FIELD6": 9.3,
+   "FIELD7": 0.7
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2006,
+   "FIELD6": 8.1,
+   "FIELD7": 0.65
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2007,
+   "FIELD6": 8.5,
+   "FIELD7": 0.65
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2008,
+   "FIELD6": 11.1,
+   "FIELD7": 0.73
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2009,
+   "FIELD6": 15.7,
+   "FIELD7": 0.84
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2010,
+   "FIELD6": 16.2,
+   "FIELD7": 0.83
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2011,
+   "FIELD6": 16.3,
+   "FIELD7": 0.81
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2012,
+   "FIELD6": 13.9,
+   "FIELD7": 0.71
+ },
+ {
+   "FIELD1": "Hispanic",
+   "FIELD2": "Female",
+   "FIELD3": "Hispanic",
+   "FIELD4": "Ages 20-14",
+   "FIELD5": 2013,
+   "FIELD6": 12,
+   "FIELD7": 0.66
+ }
+]
