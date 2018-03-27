@@ -1,4 +1,4 @@
-const employmentData = require('../../data/employment-data.json')
+const employmentData = require('../../../data/employment-data.json')
 
 exports.seed = function(knex, Promise) {
   return knex('years').del()
@@ -14,6 +14,9 @@ exports.seed = function(knex, Promise) {
     })
 };
 
+const createYear = (knex, year) => {
+  return knex('years').insert(year)
+}
 
 const createGroup = (knex, group) => {
   return knex('groups').insert({
@@ -24,13 +27,12 @@ const createGroup = (knex, group) => {
   }, 'id')
     .then(groupId => {
 
-      yearsPromises = group.years.map(year => {
-        return createYear(knex, { year: year.year, group_id: groupId, unemployment_score: year.score })
+      const yearsPromises = group.years.map(year => {
+        return createYear(knex, { year: year.year, group_id: groupId[0], unemployment_score: year.score })
       })
+
+      return Promise.all(yearsPromises)
     })
 }
 
-const createYear = (knex, year) => {
-  return knex('years').insert(year)
-}
 
