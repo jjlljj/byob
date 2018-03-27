@@ -23,5 +23,4 @@ module.exports = {
     },
     useNullAsDefault: true
   }
-
 };
