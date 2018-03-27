@@ -6,6 +6,7 @@ exports.up = function(knex, Promise) {
       table.string('group');
       table.string('gender');
       table.string('age');
+      table.string('ethnicity');
 
       table.timestamps(true, true);
     }),
