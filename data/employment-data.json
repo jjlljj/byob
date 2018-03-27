@@ -1,0 +1,1962 @@
+[
+  {
+    "group": "White, non-Hispanic, Female",
+    "ages": "Ages 18-19",
+    "gender": "Female",
+    "ethnicity": "White, non-Hispanic",
+    "years": [
+      {
+        "year": 1980,
+        "score": 13
+      },
+      {
+        "year": 1981,
+        "score": 15.3
+      },
+      {
+        "year": 1982,
+        "score": 17.6
+      },
+      {
+        "year": 1983,
+        "score": 16.4
+      },
+      {
+        "year": 1984,
+        "score": 13.6
+      },
+      {
+        "year": 1985,
+        "score": 13.1
+      },
+      {
+        "year": 1986,
+        "score": 13.6
+      },
+      {
+        "year": 1987,
+        "score": 11.7
+      },
+      {
+        "year": 1988,
+        "score": 10.8
+      },
+      {
+        "year": 1989,
+        "score": 10.1
+      },
+      {
+        "year": 1990,
+        "score": 10.9
+      },
+      {
+        "year": 1991,
+        "score": 13.3
+      },
+      {
+        "year": 1992,
+        "score": 13.7
+      },
+      {
+        "year": 1993,
+        "score": 12.6
+      },
+      {
+        "year": 1994,
+        "score": 11.8
+      },
+      {
+        "year": 1995,
+        "score": 11.2
+      },
+      {
+        "year": 1996,
+        "score": 11.7
+      },
+      {
+        "year": 1997,
+        "score": 11.1
+      },
+      {
+        "year": 1998,
+        "score": 9.9
+      },
+      {
+        "year": 1999,
+        "score": 9.6
+      },
+      {
+        "year": 2000,
+        "score": 9
+      },
+      {
+        "year": 2001,
+        "score": 10.2
+      },
+      {
+        "year": 2002,
+        "score": 12.1
+      },
+      {
+        "year": 2003,
+        "score": 11.5
+      },
+      {
+        "year": 2004,
+        "score": 11.9
+      },
+      {
+        "year": 2005,
+        "score": 11.1
+      },
+      {
+        "year": 2006,
+        "score": 10.2
+      },
+      {
+        "year": 2007,
+        "score": 10.6
+      },
+      {
+        "year": 2008,
+        "score": 12.2
+      },
+      {
+        "year": 2009,
+        "score": 17
+      },
+      {
+        "year": 2010,
+        "score": 18.1
+      },
+      {
+        "year": 2011,
+        "score": 16.7
+      },
+      {
+        "year": 2012,
+        "score": 16.7
+      },
+      {
+        "year": 2013,
+        "score": 16
+      },
+      {
+        "year": 1980,
+        "score": 8.5
+      },
+      {
+        "year": 1981,
+        "score": 9.1
+      },
+      {
+        "year": 1982,
+        "score": 11
+      },
+      {
+        "year": 1983,
+        "score": 10.3
+      },
+      {
+        "year": 1984,
+        "score": 8.8
+      },
+      {
+        "year": 1985,
+        "score": 8.5
+      },
+      {
+        "year": 1986,
+        "score": 8.1
+      },
+      {
+        "year": 1987,
+        "score": 7.4
+      },
+      {
+        "year": 1988,
+        "score": 6.7
+      },
+      {
+        "year": 1989,
+        "score": 6.8
+      },
+      {
+        "year": 1990,
+        "score": 6.8
+      },
+      {
+        "year": 1991,
+        "score": 8.1
+      },
+      {
+        "year": 1992,
+        "score": 8.3
+      },
+      {
+        "year": 1993,
+        "score": 7.9
+      },
+      {
+        "year": 1994,
+        "score": 7.4
+      },
+      {
+        "year": 1995,
+        "score": 7.4
+      },
+      {
+        "year": 1996,
+        "score": 7.4
+      },
+      {
+        "year": 1997,
+        "score": 6.4
+      },
+      {
+        "year": 1998,
+        "score": 6.3
+      },
+      {
+        "year": 1999,
+        "score": 6.1
+      },
+      {
+        "year": 2000,
+        "score": 5.8
+      },
+      {
+        "year": 2001,
+        "score": 6.1
+      },
+      {
+        "year": 2002,
+        "score": 7.4
+      },
+      {
+        "year": 2003,
+        "score": 7.6
+      },
+      {
+        "year": 2004,
+        "score": 7.1
+      },
+      {
+        "year": 2005,
+        "score": 6.4
+      },
+      {
+        "year": 2006,
+        "score": 6.3
+      },
+      {
+        "year": 2007,
+        "score": 6.2
+      },
+      {
+        "year": 2008,
+        "score": 7.5
+      },
+      {
+        "year": 2009,
+        "score": 10.4
+      },
+      {
+        "year": 2010,
+        "score": 11
+      },
+      {
+        "year": 2011,
+        "score": 11.4
+      },
+      {
+        "year": 2012,
+        "score": 10.1
+      },
+      {
+        "year": 2013,
+        "score": 9.7
+      }
+    ]
+  },
+  {
+    "group": "Black, non-Hispanic, Male",
+    "ages": "Ages 18-19",
+    "gender": "Male",
+    "ethnicity": "Black, non-Hispanic",
+    "years": [
+      {
+        "year": 1980,
+        "score": 36.2
+      },
+      {
+        "year": 1981,
+        "score": 39.2
+      },
+      {
+        "year": 1982,
+        "score": 47
+      },
+      {
+        "year": 1983,
+        "score": 47.3
+      },
+      {
+        "year": 1984,
+        "score": 42.1
+      },
+      {
+        "year": 1985,
+        "score": 40
+      },
+      {
+        "year": 1986,
+        "score": 38.1
+      },
+      {
+        "year": 1987,
+        "score": 31.7
+      },
+      {
+        "year": 1988,
+        "score": 31.8
+      },
+      {
+        "year": 1989,
+        "score": 30.2
+      },
+      {
+        "year": 1990,
+        "score": 28.2
+      },
+      {
+        "year": 1991,
+        "score": 35
+      },
+      {
+        "year": 1992,
+        "score": 38.9
+      },
+      {
+        "year": 1993,
+        "score": 38.5
+      },
+      {
+        "year": 1994,
+        "score": 36.5
+      },
+      {
+        "year": 1995,
+        "score": 35.3
+      },
+      {
+        "year": 1996,
+        "score": 34.8
+      },
+      {
+        "year": 1997,
+        "score": 34.6
+      },
+      {
+        "year": 1998,
+        "score": 28
+      },
+      {
+        "year": 1999,
+        "score": 29.2
+      },
+      {
+        "year": 2000,
+        "score": 24.9
+      },
+      {
+        "year": 2001,
+        "score": 30.2
+      },
+      {
+        "year": 2002,
+        "score": 28.6
+      },
+      {
+        "year": 2003,
+        "score": 36.4
+      },
+      {
+        "year": 2004,
+        "score": 32.5
+      },
+      {
+        "year": 2005,
+        "score": 31.5
+      },
+      {
+        "year": 2006,
+        "score": 31.6
+      },
+      {
+        "year": 2007,
+        "score": 30.4
+      },
+      {
+        "year": 2008,
+        "score": 32.2
+      },
+      {
+        "year": 2009,
+        "score": 44.4
+      },
+      {
+        "year": 2010,
+        "score": 43.9
+      },
+      {
+        "year": 2011,
+        "score": 42.3
+      },
+      {
+        "year": 2012,
+        "score": 38.9
+      },
+      {
+        "year": 2013,
+        "score": 41.7
+      },
+      {
+        "year": 1980,
+        "score": 23.7
+      },
+      {
+        "year": 1981,
+        "score": 26.4
+      },
+      {
+        "year": 1982,
+        "score": 31.5
+      },
+      {
+        "year": 1983,
+        "score": 31.4
+      },
+      {
+        "year": 1984,
+        "score": 26.6
+      },
+      {
+        "year": 1985,
+        "score": 23.6
+      },
+      {
+        "year": 1986,
+        "score": 23.5
+      },
+      {
+        "year": 1987,
+        "score": 20.4
+      },
+      {
+        "year": 1988,
+        "score": 19.4
+      },
+      {
+        "year": 1989,
+        "score": 17.9
+      },
+      {
+        "year": 1990,
+        "score": 20.1
+      },
+      {
+        "year": 1991,
+        "score": 22.4
+      },
+      {
+        "year": 1992,
+        "score": 24.6
+      },
+      {
+        "year": 1993,
+        "score": 23
+      },
+      {
+        "year": 1994,
+        "score": 19.4
+      },
+      {
+        "year": 1995,
+        "score": 17.7
+      },
+      {
+        "year": 1996,
+        "score": 19.2
+      },
+      {
+        "year": 1997,
+        "score": 19.8
+      },
+      {
+        "year": 1998,
+        "score": 18
+      },
+      {
+        "year": 1999,
+        "score": 16.2
+      },
+      {
+        "year": 2000,
+        "score": 16.6
+      },
+      {
+        "year": 2001,
+        "score": 17.6
+      },
+      {
+        "year": 2002,
+        "score": 20
+      },
+      {
+        "year": 2003,
+        "score": 20.9
+      },
+      {
+        "year": 2004,
+        "score": 20.3
+      },
+      {
+        "year": 2005,
+        "score": 20.4
+      },
+      {
+        "year": 2006,
+        "score": 17.2
+      },
+      {
+        "year": 2007,
+        "score": 16.9
+      },
+      {
+        "year": 2008,
+        "score": 19.3
+      },
+      {
+        "year": 2009,
+        "score": 27.7
+      },
+      {
+        "year": 2010,
+        "score": 29.8
+      },
+      {
+        "year": 2011,
+        "score": 27.5
+      },
+      {
+        "year": 2012,
+        "score": 25.5
+      },
+      {
+        "year": 2013,
+        "score": 25
+      }
+    ]
+  },
+  {
+    "group": "Black, non-Hispanic, Female",
+    "ages": "Ages 18-19",
+    "gender": "Female",
+    "ethnicity": "Black, non-Hispanic",
+    "years": [
+      {
+        "year": 1980,
+        "score": 38.2
+      },
+      {
+        "year": 1981,
+        "score": 39.8
+      },
+      {
+        "year": 1982,
+        "score": 48.4
+      },
+      {
+        "year": 1983,
+        "score": 47.9
+      },
+      {
+        "year": 1984,
+        "score": 40
+      },
+      {
+        "year": 1985,
+        "score": 36.6
+      },
+      {
+        "year": 1986,
+        "score": 36.2
+      },
+      {
+        "year": 1987,
+        "score": 31.7
+      },
+      {
+        "year": 1988,
+        "score": 29.8
+      },
+      {
+        "year": 1989,
+        "score": 34.2
+      },
+      {
+        "year": 1990,
+        "score": 27.5
+      },
+      {
+        "year": 1991,
+        "score": 33.9
+      },
+      {
+        "year": 1992,
+        "score": 34.9
+      },
+      {
+        "year": 1993,
+        "score": 38.2
+      },
+      {
+        "year": 1994,
+        "score": 32.3
+      },
+      {
+        "year": 1995,
+        "score": 31.5
+      },
+      {
+        "year": 1996,
+        "score": 28.6
+      },
+      {
+        "year": 1997,
+        "score": 27.7
+      },
+      {
+        "year": 1998,
+        "score": 20.9
+      },
+      {
+        "year": 1999,
+        "score": 23.4
+      },
+      {
+        "year": 2000,
+        "score": 21.3
+      },
+      {
+        "year": 2001,
+        "score": 25.4
+      },
+      {
+        "year": 2002,
+        "score": 25.7
+      },
+      {
+        "year": 2003,
+        "score": 31
+      },
+      {
+        "year": 2004,
+        "score": 24.3
+      },
+      {
+        "year": 2005,
+        "score": 26.4
+      },
+      {
+        "year": 2006,
+        "score": 23.6
+      },
+      {
+        "year": 2007,
+        "score": 24.8
+      },
+      {
+        "year": 2008,
+        "score": 25
+      },
+      {
+        "year": 2009,
+        "score": 31.5
+      },
+      {
+        "year": 2010,
+        "score": 37.8
+      },
+      {
+        "year": 2011,
+        "score": 34.7
+      },
+      {
+        "year": 2012,
+        "score": 32.9
+      },
+      {
+        "year": 2013,
+        "score": 30
+      },
+      {
+        "year": 1980,
+        "score": 23.5
+      },
+      {
+        "year": 1981,
+        "score": 26.5
+      },
+      {
+        "year": 1982,
+        "score": 29.5
+      },
+      {
+        "year": 1983,
+        "score": 31.8
+      },
+      {
+        "year": 1984,
+        "score": 25.6
+      },
+      {
+        "year": 1985,
+        "score": 25.6
+      },
+      {
+        "year": 1986,
+        "score": 24.7
+      },
+      {
+        "year": 1987,
+        "score": 23.3
+      },
+      {
+        "year": 1988,
+        "score": 19.8
+      },
+      {
+        "year": 1989,
+        "score": 18.1
+      },
+      {
+        "year": 1990,
+        "score": 19.6
+      },
+      {
+        "year": 1991,
+        "score": 20.7
+      },
+      {
+        "year": 1992,
+        "score": 23.2
+      },
+      {
+        "year": 1993,
+        "score": 20.9
+      },
+      {
+        "year": 1994,
+        "score": 19.6
+      },
+      {
+        "year": 1995,
+        "score": 17.8
+      },
+      {
+        "year": 1996,
+        "score": 18.4
+      },
+      {
+        "year": 1997,
+        "score": 17.1
+      },
+      {
+        "year": 1998,
+        "score": 15.6
+      },
+      {
+        "year": 1999,
+        "score": 13.4
+      },
+      {
+        "year": 2000,
+        "score": 13.6
+      },
+      {
+        "year": 2001,
+        "score": 15.3
+      },
+      {
+        "year": 2002,
+        "score": 18.3
+      },
+      {
+        "year": 2003,
+        "score": 18.8
+      },
+      {
+        "year": 2004,
+        "score": 16.6
+      },
+      {
+        "year": 2005,
+        "score": 16.3
+      },
+      {
+        "year": 2006,
+        "score": 15.2
+      },
+      {
+        "year": 2007,
+        "score": 13.6
+      },
+      {
+        "year": 2008,
+        "score": 16.6
+      },
+      {
+        "year": 2009,
+        "score": 22.1
+      },
+      {
+        "year": 2010,
+        "score": 22.6
+      },
+      {
+        "year": 2011,
+        "score": 23.1
+      },
+      {
+        "year": 2012,
+        "score": 20.8
+      },
+      {
+        "year": 2013,
+        "score": 20.5
+      }
+    ]
+  },
+  {
+    "group": "Asian, non-Hispanic, Male",
+    "ages": "Ages 18-19",
+    "gender": "Male",
+    "ethnicity": "Asian, non-Hispanic",
+    "years": [
+      {
+        "year": 1980,
+        "score": null
+      },
+      {
+        "year": 1981,
+        "score": null
+      },
+      {
+        "year": 1982,
+        "score": null
+      },
+      {
+        "year": 1983,
+        "score": null
+      },
+      {
+        "year": 1984,
+        "score": null
+      },
+      {
+        "year": 1985,
+        "score": null
+      },
+      {
+        "year": 1986,
+        "score": null
+      },
+      {
+        "year": 1987,
+        "score": null
+      },
+      {
+        "year": 1988,
+        "score": null
+      },
+      {
+        "year": 1989,
+        "score": null
+      },
+      {
+        "year": 1990,
+        "score": null
+      },
+      {
+        "year": 1991,
+        "score": null
+      },
+      {
+        "year": 1992,
+        "score": null
+      },
+      {
+        "year": 1993,
+        "score": null
+      },
+      {
+        "year": 1994,
+        "score": null
+      },
+      {
+        "year": 1995,
+        "score": null
+      },
+      {
+        "year": 1996,
+        "score": null
+      },
+      {
+        "year": 1997,
+        "score": null
+      },
+      {
+        "year": 1998,
+        "score": null
+      },
+      {
+        "year": 1999,
+        "score": null
+      },
+      {
+        "year": 2000,
+        "score": 14
+      },
+      {
+        "year": 2001,
+        "score": 11.2
+      },
+      {
+        "year": 2002,
+        "score": 17.9
+      },
+      {
+        "year": 2003,
+        "score": 17.8
+      },
+      {
+        "year": 2004,
+        "score": 12.4
+      },
+      {
+        "year": 2005,
+        "score": 13.1
+      },
+      {
+        "year": 2006,
+        "score": 13.6
+      },
+      {
+        "year": 2007,
+        "score": 10.1
+      },
+      {
+        "year": 2008,
+        "score": 12.5
+      },
+      {
+        "year": 2009,
+        "score": 22.4
+      },
+      {
+        "year": 2010,
+        "score": 24.4
+      },
+      {
+        "year": 2011,
+        "score": 28.8
+      },
+      {
+        "year": 2012,
+        "score": 24.2
+      },
+      {
+        "year": 2013,
+        "score": 20.3
+      },
+      {
+        "year": 1980,
+        "score": null
+      },
+      {
+        "year": 1981,
+        "score": null
+      },
+      {
+        "year": 1982,
+        "score": null
+      },
+      {
+        "year": 1983,
+        "score": null
+      },
+      {
+        "year": 1984,
+        "score": null
+      },
+      {
+        "year": 1985,
+        "score": null
+      },
+      {
+        "year": 1986,
+        "score": null
+      },
+      {
+        "year": 1987,
+        "score": null
+      },
+      {
+        "year": 1988,
+        "score": null
+      },
+      {
+        "year": 1989,
+        "score": null
+      },
+      {
+        "year": 1990,
+        "score": null
+      },
+      {
+        "year": 1991,
+        "score": null
+      },
+      {
+        "year": 1992,
+        "score": null
+      },
+      {
+        "year": 1993,
+        "score": null
+      },
+      {
+        "year": 1994,
+        "score": null
+      },
+      {
+        "year": 1995,
+        "score": null
+      },
+      {
+        "year": 1996,
+        "score": null
+      },
+      {
+        "year": 1997,
+        "score": null
+      },
+      {
+        "year": 1998,
+        "score": null
+      },
+      {
+        "year": 1999,
+        "score": null
+      },
+      {
+        "year": 2000,
+        "score": 7.9
+      },
+      {
+        "year": 2001,
+        "score": 9.8
+      },
+      {
+        "year": 2002,
+        "score": 10.9
+      },
+      {
+        "year": 2003,
+        "score": 9.9
+      },
+      {
+        "year": 2004,
+        "score": 8.2
+      },
+      {
+        "year": 2005,
+        "score": 9
+      },
+      {
+        "year": 2006,
+        "score": 7
+      },
+      {
+        "year": 2007,
+        "score": 6.9
+      },
+      {
+        "year": 2008,
+        "score": 6.5
+      },
+      {
+        "year": 2009,
+        "score": 12.3
+      },
+      {
+        "year": 2010,
+        "score": 14.2
+      },
+      {
+        "year": 2011,
+        "score": 11.7
+      },
+      {
+        "year": 2012,
+        "score": 10.2
+      },
+      {
+        "year": 2013,
+        "score": 12.4
+      }
+    ]
+  },
+  {
+    "group": "Asian, non-Hispanic, Female",
+    "ages": "Ages 18-19",
+    "gender": "Female",
+    "ethnicity": "Asian, non-Hispanic",
+    "years": [
+      {
+        "year": 1980,
+        "score": null
+      },
+      {
+        "year": 1981,
+        "score": null
+      },
+      {
+        "year": 1982,
+        "score": null
+      },
+      {
+        "year": 1983,
+        "score": null
+      },
+      {
+        "year": 1984,
+        "score": null
+      },
+      {
+        "year": 1985,
+        "score": null
+      },
+      {
+        "year": 1986,
+        "score": null
+      },
+      {
+        "year": 1987,
+        "score": null
+      },
+      {
+        "year": 1988,
+        "score": null
+      },
+      {
+        "year": 1989,
+        "score": null
+      },
+      {
+        "year": 1990,
+        "score": null
+      },
+      {
+        "year": 1991,
+        "score": null
+      },
+      {
+        "year": 1992,
+        "score": null
+      },
+      {
+        "year": 1993,
+        "score": null
+      },
+      {
+        "year": 1994,
+        "score": null
+      },
+      {
+        "year": 1995,
+        "score": null
+      },
+      {
+        "year": 1996,
+        "score": null
+      },
+      {
+        "year": 1997,
+        "score": null
+      },
+      {
+        "year": 1998,
+        "score": null
+      },
+      {
+        "year": 1999,
+        "score": null
+      },
+      {
+        "year": 2000,
+        "score": 13.5
+      },
+      {
+        "year": 2001,
+        "score": 10.9
+      },
+      {
+        "year": 2002,
+        "score": 10.7
+      },
+      {
+        "year": 2003,
+        "score": 14.8
+      },
+      {
+        "year": 2004,
+        "score": 7.8
+      },
+      {
+        "year": 2005,
+        "score": 6.2
+      },
+      {
+        "year": 2006,
+        "score": 9.9
+      },
+      {
+        "year": 2007,
+        "score": 12.9
+      },
+      {
+        "year": 2008,
+        "score": 15.7
+      },
+      {
+        "year": 2009,
+        "score": 24
+      },
+      {
+        "year": 2010,
+        "score": 20.8
+      },
+      {
+        "year": 2011,
+        "score": 21.6
+      },
+      {
+        "year": 2012,
+        "score": 19.7
+      },
+      {
+        "year": 2013,
+        "score": 19.3
+      },
+      {
+        "year": 1980,
+        "score": null
+      },
+      {
+        "year": 1981,
+        "score": null
+      },
+      {
+        "year": 1982,
+        "score": null
+      },
+      {
+        "year": 1983,
+        "score": null
+      },
+      {
+        "year": 1984,
+        "score": null
+      },
+      {
+        "year": 1985,
+        "score": null
+      },
+      {
+        "year": 1986,
+        "score": null
+      },
+      {
+        "year": 1987,
+        "score": null
+      },
+      {
+        "year": 1988,
+        "score": null
+      },
+      {
+        "year": 1989,
+        "score": null
+      },
+      {
+        "year": 1990,
+        "score": null
+      },
+      {
+        "year": 1991,
+        "score": null
+      },
+      {
+        "year": 1992,
+        "score": null
+      },
+      {
+        "year": 1993,
+        "score": null
+      },
+      {
+        "year": 1994,
+        "score": null
+      },
+      {
+        "year": 1995,
+        "score": null
+      },
+      {
+        "year": 1996,
+        "score": null
+      },
+      {
+        "year": 1997,
+        "score": null
+      },
+      {
+        "year": 1998,
+        "score": null
+      },
+      {
+        "year": 1999,
+        "score": null
+      },
+      {
+        "year": 2000,
+        "score": 5.8
+      },
+      {
+        "year": 2001,
+        "score": 6.3
+      },
+      {
+        "year": 2002,
+        "score": 9.4
+      },
+      {
+        "year": 2003,
+        "score": 8.1
+      },
+      {
+        "year": 2004,
+        "score": 9
+      },
+      {
+        "year": 2005,
+        "score": 3.8
+      },
+      {
+        "year": 2006,
+        "score": 4
+      },
+      {
+        "year": 2007,
+        "score": 4.2
+      },
+      {
+        "year": 2008,
+        "score": 6.1
+      },
+      {
+        "year": 2009,
+        "score": 11.3
+      },
+      {
+        "year": 2010,
+        "score": 10.2
+      },
+      {
+        "year": 2011,
+        "score": 10.1
+      },
+      {
+        "year": 2012,
+        "score": 10.9
+      },
+      {
+        "year": 2013,
+        "score": 7.4
+      }
+    ]
+  },
+  {
+    "group": "Hispanic, Male",
+    "ages": "Ages 18-19",
+    "gender": "Male",
+    "ethnicity": "Hispanic",
+    "years": [
+      {
+        "year": 1980,
+        "score": 19.2
+      },
+      {
+        "year": 1981,
+        "score": 20.5
+      },
+      {
+        "year": 1982,
+        "score": 26.7
+      },
+      {
+        "year": 1983,
+        "score": 25.9
+      },
+      {
+        "year": 1984,
+        "score": 22
+      },
+      {
+        "year": 1985,
+        "score": 22.5
+      },
+      {
+        "year": 1986,
+        "score": 22.5
+      },
+      {
+        "year": 1987,
+        "score": 19.3
+      },
+      {
+        "year": 1988,
+        "score": 19.6
+      },
+      {
+        "year": 1989,
+        "score": 16.6
+      },
+      {
+        "year": 1990,
+        "score": 17.3
+      },
+      {
+        "year": 1991,
+        "score": 19.1
+      },
+      {
+        "year": 1992,
+        "score": 23.9
+      },
+      {
+        "year": 1993,
+        "score": 21.9
+      },
+      {
+        "year": 1994,
+        "score": 22.3
+      },
+      {
+        "year": 1995,
+        "score": 20.3
+      },
+      {
+        "year": 1996,
+        "score": 18.5
+      },
+      {
+        "year": 1997,
+        "score": 17.8
+      },
+      {
+        "year": 1998,
+        "score": 16.4
+      },
+      {
+        "year": 1999,
+        "score": 15.2
+      },
+      {
+        "year": 2000,
+        "score": 12.7
+      },
+      {
+        "year": 2001,
+        "score": 13.4
+      },
+      {
+        "year": 2002,
+        "score": 19.2
+      },
+      {
+        "year": 2003,
+        "score": 20.1
+      },
+      {
+        "year": 2004,
+        "score": 17.6
+      },
+      {
+        "year": 2005,
+        "score": 17.6
+      },
+      {
+        "year": 2006,
+        "score": 14.8
+      },
+      {
+        "year": 2007,
+        "score": 18
+      },
+      {
+        "year": 2008,
+        "score": 19.8
+      },
+      {
+        "year": 2009,
+        "score": 31.2
+      },
+      {
+        "year": 2010,
+        "score": 32.6
+      },
+      {
+        "year": 2011,
+        "score": 31
+      },
+      {
+        "year": 2012,
+        "score": 26.9
+      },
+      {
+        "year": 2013,
+        "score": 25.9
+      },
+      {
+        "year": 1980,
+        "score": 12.2
+      },
+      {
+        "year": 1981,
+        "score": 14.1
+      },
+      {
+        "year": 1982,
+        "score": 18.2
+      },
+      {
+        "year": 1983,
+        "score": 17
+      },
+      {
+        "year": 1984,
+        "score": 12.5
+      },
+      {
+        "year": 1985,
+        "score": 12.9
+      },
+      {
+        "year": 1986,
+        "score": 13
+      },
+      {
+        "year": 1987,
+        "score": 10.2
+      },
+      {
+        "year": 1988,
+        "score": 9.3
+      },
+      {
+        "year": 1989,
+        "score": 9.7
+      },
+      {
+        "year": 1990,
+        "score": 8.4
+      },
+      {
+        "year": 1991,
+        "score": 11.6
+      },
+      {
+        "year": 1992,
+        "score": 13.7
+      },
+      {
+        "year": 1993,
+        "score": 12.6
+      },
+      {
+        "year": 1994,
+        "score": 10.8
+      },
+      {
+        "year": 1995,
+        "score": 10.7
+      },
+      {
+        "year": 1996,
+        "score": 10.3
+      },
+      {
+        "year": 1997,
+        "score": 9.9
+      },
+      {
+        "year": 1998,
+        "score": 8.9
+      },
+      {
+        "year": 1999,
+        "score": 7.8
+      },
+      {
+        "year": 2000,
+        "score": 6.6
+      },
+      {
+        "year": 2001,
+        "score": 8.1
+      },
+      {
+        "year": 2002,
+        "score": 9.3
+      },
+      {
+        "year": 2003,
+        "score": 9.6
+      },
+      {
+        "year": 2004,
+        "score": 9.5
+      },
+      {
+        "year": 2005,
+        "score": 8.1
+      },
+      {
+        "year": 2006,
+        "score": 6.7
+      },
+      {
+        "year": 2007,
+        "score": 7.4
+      },
+      {
+        "year": 2008,
+        "score": 11.8
+      },
+      {
+        "year": 2009,
+        "score": 16.5
+      },
+      {
+        "year": 2010,
+        "score": 18.2
+      },
+      {
+        "year": 2011,
+        "score": 15.3
+      },
+      {
+        "year": 2012,
+        "score": 13.8
+      },
+      {
+        "year": 2013,
+        "score": 13.4
+      }
+    ]
+  },
+  {
+    "group": "Hispanic, Female",
+    "ages": "Ages 18-19",
+    "gender": "Female",
+    "ethnicity": "Hispanic",
+    "years": [
+      {
+        "year": 1980,
+        "score": 19.5
+      },
+      {
+        "year": 1981,
+        "score": 23.3
+      },
+      {
+        "year": 1982,
+        "score": 25
+      },
+      {
+        "year": 1983,
+        "score": 25.9
+      },
+      {
+        "year": 1984,
+        "score": 20.9
+      },
+      {
+        "year": 1985,
+        "score": 23
+      },
+      {
+        "year": 1986,
+        "score": 23.8
+      },
+      {
+        "year": 1987,
+        "score": 19.9
+      },
+      {
+        "year": 1988,
+        "score": 18.7
+      },
+      {
+        "year": 1989,
+        "score": 15.1
+      },
+      {
+        "year": 1990,
+        "score": 16.4
+      },
+      {
+        "year": 1991,
+        "score": 17.9
+      },
+      {
+        "year": 1992,
+        "score": 22.4
+      },
+      {
+        "year": 1993,
+        "score": 21.9
+      },
+      {
+        "year": 1994,
+        "score": 18
+      },
+      {
+        "year": 1995,
+        "score": 18.5
+      },
+      {
+        "year": 1996,
+        "score": 23.5
+      },
+      {
+        "year": 1997,
+        "score": 19
+      },
+      {
+        "year": 1998,
+        "score": 20.3
+      },
+      {
+        "year": 1999,
+        "score": 17.9
+      },
+      {
+        "year": 2000,
+        "score": 15.5
+      },
+      {
+        "year": 2001,
+        "score": 17.1
+      },
+      {
+        "year": 2002,
+        "score": 16.9
+      },
+      {
+        "year": 2003,
+        "score": 14.4
+      },
+      {
+        "year": 2004,
+        "score": 15.6
+      },
+      {
+        "year": 2005,
+        "score": 13.9
+      },
+      {
+        "year": 2006,
+        "score": 12
+      },
+      {
+        "year": 2007,
+        "score": 13.6
+      },
+      {
+        "year": 2008,
+        "score": 18
+      },
+      {
+        "year": 2009,
+        "score": 23.7
+      },
+      {
+        "year": 2010,
+        "score": 27.1
+      },
+      {
+        "year": 2011,
+        "score": 24.9
+      },
+      {
+        "year": 2012,
+        "score": 25
+      },
+      {
+        "year": 2013,
+        "score": 23.8
+      },
+      {
+        "year": 1980,
+        "score": 12.1
+      },
+      {
+        "year": 1981,
+        "score": 13.4
+      },
+      {
+        "year": 1982,
+        "score": 16.9
+      },
+      {
+        "year": 1983,
+        "score": 16.2
+      },
+      {
+        "year": 1984,
+        "score": 12.1
+      },
+      {
+        "year": 1985,
+        "score": 12
+      },
+      {
+        "year": 1986,
+        "score": 12.9
+      },
+      {
+        "year": 1987,
+        "score": 11.4
+      },
+      {
+        "year": 1988,
+        "score": 10.7
+      },
+      {
+        "year": 1989,
+        "score": 12.2
+      },
+      {
+        "year": 1990,
+        "score": 10.4
+      },
+      {
+        "year": 1991,
+        "score": 11.7
+      },
+      {
+        "year": 1992,
+        "score": 12.5
+      },
+      {
+        "year": 1993,
+        "score": 14
+      },
+      {
+        "year": 1994,
+        "score": 13.5
+      },
+      {
+        "year": 1995,
+        "score": 12.9
+      },
+      {
+        "year": 1996,
+        "score": 14
+      },
+      {
+        "year": 1997,
+        "score": 11
+      },
+      {
+        "year": 1998,
+        "score": 10.1
+      },
+      {
+        "year": 1999,
+        "score": 9.1
+      },
+      {
+        "year": 2000,
+        "score": 9
+      },
+      {
+        "year": 2001,
+        "score": 8.2
+      },
+      {
+        "year": 2002,
+        "score": 10.8
+      },
+      {
+        "year": 2003,
+        "score": 11.3
+      },
+      {
+        "year": 2004,
+        "score": 9.2
+      },
+      {
+        "year": 2005,
+        "score": 9.3
+      },
+      {
+        "year": 2006,
+        "score": 8.1
+      },
+      {
+        "year": 2007,
+        "score": 8.5
+      },
+      {
+        "year": 2008,
+        "score": 11.1
+      },
+      {
+        "year": 2009,
+        "score": 15.7
+      },
+      {
+        "year": 2010,
+        "score": 16.2
+      },
+      {
+        "year": 2011,
+        "score": 16.3
+      },
+      {
+        "year": 2012,
+        "score": 13.9
+      },
+      {
+        "year": 2013,
+        "score": 12
+      }
+    ]
+  }
+]
