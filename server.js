@@ -54,6 +54,28 @@ app.get('/api/v1/groups/:id', (request, response) => {
     });
 });
 
+app.delete('/api/v1/groups/:id', (request, response) => {
+  const { id } = request.params;
+  db('years')
+    .where('group_id', id)
+    .del()
+    .then(() => {
+      db('groups')
+        .where('id', id)
+        .del()
+        .then(group => {
+          if (!group) {
+            return response.status(404).json({'error':'item requested not found'});
+          }
+          response.status(200).json(group);
+        });
+    })
+    .catch(error => {
+      response.status(500).json({ error });
+    });
+  
+});
+
 app.get('/api/v1/years', (request, response) => {
   db('years')
     .select()
@@ -118,7 +140,24 @@ app.post('/api/v1/years', (request, response) => {
     .catch(error => {
       response.status(500).json({ error });
     });
-})
+});
+
+app.delete('/api/v1/years/:id', (request, response) => {
+  const { id } = request.params;
+  db('years')
+    .where('id', id)
+    .select()
+    .del()
+    .then(year => {
+      if (!year) {
+        return response.status(404).json({'error':'item requested not found'});
+      }
+      response.status(200).json(year);
+    })
+    .catch(error => {
+      response.status(500).json({ error });
+    });
+});
 
 
 app.patch('/api/v1/groups/:id', (request, response) => {
