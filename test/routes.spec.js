@@ -134,6 +134,20 @@ describe('API ROUTES', () => {
     });
   });
 
+  describe('PATCH /api/v1/groups/:id', () => {
+    it('should update the expected group', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/groups/1')
+        .send({ age: 'test' })
+        .then(response => {
+          response.should.have.status(200);
+          expect(response.body).to.equal('Record successfully updated')
+        })
+    })
+
+  })
+
   it('should be a passing test suite', () => {
     true.should.equal(true);
   });

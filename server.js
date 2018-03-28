@@ -96,6 +96,9 @@ app.patch('/api/v1/groups/:id', (request, response) => {
       ethnicity
     })
     .then( updated => {
+      if ( !updated ) {
+        return response.status(404).json({error: 'unable to update item'})
+      }
       response.status(200).json('Record successfully updated')
     })
     .catch(error => {
@@ -114,6 +117,9 @@ app.patch('/api/v1/years/:id', (request, response) => {
       year
     })
     .then( updated => {
+      if ( !updated ) {
+        return response.status(404).json({error: 'unable to update item'})
+      }
       response.status(200).json('Record successfully updated')
     })
     .catch(error => {
