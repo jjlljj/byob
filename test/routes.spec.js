@@ -134,6 +134,94 @@ describe('API ROUTES', () => {
     });
   });
 
+  describe('POST /api/v1/groups', () => {
+
+    it('should post a new group that has complete params', () => {
+      return chai 
+        .request(server)
+        .post('/api/v1/groups')
+        .send({
+          group: 'test group',
+          ethnicity: 'test ethnicity',
+          gender: 'test gender',
+          age: 'test age'
+        })
+        .then(response => {
+          response.should.have.status(201);
+          response.body.should.be.a('object');
+          response.body.should.have.property('id');
+          response.body.id.should.equal(3);
+        })
+        .catch(err => {
+          throw err;
+        });
+    });
+
+    it('should not create a new group if called with incorrect params', () => {
+      return chai
+        .request(server)
+        .post('/api/v1/groups')
+        .send({
+          group: 'test group',
+          ethnicity: 'test ethnicity',
+          age: 'test age'
+        })
+        .then(response => {
+          response.should.have.status(422);
+          response.should.be.json;
+          response.body.should.be.a('object');
+          response.body.error.should.equal(
+            `Expected format: { group: <string>, ethnicity: <string>, gender: <string>, age: <string> } You're missing a "gender" property`);
+        })
+        .catch(err => {
+          throw err;
+        });
+      })
+  })
+
+  describe('POST /api/v1/years', () => {
+
+    it('should post a new year to a group that has complete params', () => {
+      return chai 
+        .request(server)
+        .post('/api/v1/years')
+        .send({
+          year: '3000',
+          group_id: '1',
+          unemployment_score: '100%'
+        })
+        .then(response => {
+          response.should.have.status(201);
+          response.body.should.be.a('object');
+          response.body.should.have.property('id');
+          response.body.id.should.equal(137);
+        })
+        .catch(err => {
+          throw err;
+        });
+    });
+
+    it('should not create a new year if called with incorrect params', () => {
+      return chai
+        .request(server)
+        .post('/api/v1/years')
+        .send({
+          group_id: '1',
+          unemployment_score: '100%'
+        })
+        .then(response => {
+          response.should.have.status(422);
+          response.should.be.json;
+          response.body.should.be.a('object');
+          response.body.error.should.equal(
+            `Expected format: { year: <string>, group_id: <string>, unemployment_score: <string> } You're missing a "year" property`);
+        })
+        .catch(err => {
+          throw err;
+        });
+      })
+  })
+
   describe('PATCH /api/v1/groups/:id', () => {
     it('should update the expected group', () => {
       return chai
