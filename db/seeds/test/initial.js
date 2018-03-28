@@ -1,4 +1,4 @@
-const employmentData = require('../../../data/employment-data.json')
+const employmentData = require('../../../data/test-employment-data.json')
 
 exports.seed = function(knex, Promise) {
   return knex('years').del()
