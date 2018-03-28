@@ -10,15 +10,15 @@ const db = require('knex')(configuration);
 chai.use(chaiHttp);
 
 describe('Client Routes', () => {
-  // beforeEach(done => {
-  //   db.migrate.rollback().then(() => {
-  //     db.migrate.latest().then(() => {
-  //       return db.seed.run().then(() => {
-  //         done();
-  //       });
-  //     });
-  //   });
-  // });
+  beforeEach(done => {
+    db.migrate.rollback().then(() => {
+      db.migrate.latest().then(() => {
+        return db.seed.run().then(() => {
+          done();
+        });
+      });
+    });
+  });
 
   it('should return 404', () => {
     return chai
@@ -38,11 +38,11 @@ describe('API ROUTES', () => {
     it('should return all groups', () => {
       return chai
         .request(server)
-        .get('/api/v1/groups')
+        .get('/api/v1/groups/')
         .then(response => {
           response.should.have.status(200);
           response.body.should.be.a('array');
-          response.body[0].should.have.property('id');
+          expect(response.body[0]).to.have.property('id');
           response.body[0].should.have.property('group');
           response.body[0].should.have.property('gender');
           response.body[0].should.have.property('age');
