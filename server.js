@@ -81,6 +81,44 @@ app.get('/api/v1/years/:id', (request, response) => {
     });
 });
 
+app.post('/api/v1/groups', (request, response) => {
+  const { group, ethnicity, age, gender }  = request.body
+  const newGroup = { group, ethnicity, age, gender }
+  for(let requiredParameter of ['group', 'ethnicity', 'age', 'gender']) {
+    if(!newGroup[requiredParameter]) {
+      return response.status(422).send({ 
+        error: `Expected format: { group: <string>, ethnicity: <string>, gender: <string>, age: <string> } You're missing a "${requiredParameter}" property`
+      })
+    }
+  }
+
+  db('groups').insert(newGroup, 'id')
+    .then(group => {
+      response.status(201).json({ id: group[0]})
+    })
+    .catch(error => {
+      response.status(500).json({ error });
+    });
+});
+
+app.post('/api/v1/years', (request, response) => {
+  const { year, group_id, unemployment_score } = request.body;
+  const newYear = { year, group_id, unemployment_score };
+  for(let requiredParameter of ['year', 'group_id', 'unemployment_score'])
+    if(!newYear[requiredParameter]) {
+      return response.status(422).send({ 
+        error: `Expected format: { year: <string>, group_id: <string>, unemployment_score: <string> } You're missing a "${requiredParameter}" property`
+      })
+    }
+
+  db('years').insert(newYear, 'id')
+    .then(year => {
+      response.status(201).json({ id: year[0]})
+    })
+    .catch(error => {
+      response.status(500).json({ error });
+    });
+})
 
 
 app.patch('/api/v1/groups/:id', (request, response) => {
