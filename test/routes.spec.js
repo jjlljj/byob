@@ -34,6 +34,16 @@ describe('Client Routes', () => {
 });
 
 describe('API ROUTES', () => {
+  beforeEach(done => {
+    db.migrate.rollback().then(() => {
+      db.migrate.latest().then(() => {
+        return db.seed.run().then(() => {
+          done();
+        });
+      });
+    });
+  });
+
   describe('GET /api/v1/groups', () => {
     it('should return all groups', () => {
       return chai
