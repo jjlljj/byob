@@ -134,6 +134,54 @@ describe('API ROUTES', () => {
     });
   });
 
+  describe('PATCH /api/v1/groups/:id', () => {
+    it('should update the expected group', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/groups/1')
+        .send({ age: 'test' })
+        .then(response => {
+          response.should.have.status(200);
+          expect(response.body).to.equal('Record successfully updated')
+        })
+    })
+
+    it('should return 404 if no record was updated', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/groups/999')
+        .send({ age: 'test2' })
+        .then(response => {
+          response.should.have.status(422);
+          expect(response.body.error).to.equal('unable to update item')
+        })
+    })
+  })
+
+  describe('PATCH /api/v1/years/:id', () => {
+    it('should update the expected group', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/years/1')
+        .send({ unemployment_score: 'test' })
+        .then(response => {
+          response.should.have.status(200);
+          expect(response.body).to.equal('Record successfully updated')
+        })
+    })
+
+    it('should return 404 if no record was updated', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/years/9999')
+        .send({ unemployment_score: 'test2' })
+        .then(response => {
+          response.should.have.status(422);
+          expect(response.body.error).to.equal('unable to update item')
+        })
+    })
+  })
+
   it('should be a passing test suite', () => {
     true.should.equal(true);
   });

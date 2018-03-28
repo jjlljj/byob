@@ -81,15 +81,55 @@ app.get('/api/v1/years/:id', (request, response) => {
     });
 });
 
-// app.set('secretKey', 'dudewhereismycar')
-// app.post('/authenticate', (request, response) => {
-//   const {name, email} = request.body
-//   const token = jwt.sign({email, name}, app.get('secretKey'), { expiresIn: '48h' });
-//   return response.status(201).json({token});
-// });
 
-app.use((req, res) => {
-  res.status(404).send('Sorry can\'t find that!');
+
+app.patch('/api/v1/groups/:id', (request, response) => {
+  const { id } = request.params;
+  const { group, gender, age, ethnicity } = request.body
+
+  db('groups')
+    .where('id', id)
+    .update({
+      group,
+      gender,
+      age, 
+      ethnicity
+    })
+    .then( updated => {
+      if ( !updated ) {
+        return response.status(422).json({error: 'unable to update item'})
+      }
+      response.status(200).json('Record successfully updated')
+    })
+    .catch(error => {
+      response.status(500).json({error})
+    })
+})
+
+app.patch('/api/v1/years/:id', (request, response) => {
+  const { id } = request.params;
+  const { unemployment_score, year } = request.body
+
+  db('years')
+    .where('id', id)
+    .update({
+      unemployment_score,
+      year
+    })
+    .then( updated => {
+      if ( !updated ) {
+        return response.status(422).json({error: 'unable to update item'})
+      }
+      response.status(200).json('Record successfully updated')
+    })
+    .catch(error => {
+      response.status(500).json({error})
+    })
+})
+
+
+app.use((req, res, next) => {
+  res.status(404).send("Sorry can't find that!")
 });
 
 app.listen(app.get('port'), () => {
