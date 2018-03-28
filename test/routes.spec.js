@@ -152,7 +152,7 @@ describe('API ROUTES', () => {
         .patch('/api/v1/groups/999')
         .send({ age: 'test2' })
         .then(response => {
-          response.should.have.status(404);
+          response.should.have.status(422);
           expect(response.body.error).to.equal('unable to update item')
         })
     })
@@ -176,7 +176,7 @@ describe('API ROUTES', () => {
         .patch('/api/v1/years/9999')
         .send({ unemployment_score: 'test2' })
         .then(response => {
-          response.should.have.status(404);
+          response.should.have.status(422);
           expect(response.body.error).to.equal('unable to update item')
         })
     })

@@ -97,7 +97,7 @@ app.patch('/api/v1/groups/:id', (request, response) => {
     })
     .then( updated => {
       if ( !updated ) {
-        return response.status(404).json({error: 'unable to update item'})
+        return response.status(422).json({error: 'unable to update item'})
       }
       response.status(200).json('Record successfully updated')
     })
@@ -118,7 +118,7 @@ app.patch('/api/v1/years/:id', (request, response) => {
     })
     .then( updated => {
       if ( !updated ) {
-        return response.status(404).json({error: 'unable to update item'})
+        return response.status(422).json({error: 'unable to update item'})
       }
       response.status(200).json('Record successfully updated')
     })
