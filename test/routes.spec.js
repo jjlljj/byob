@@ -77,7 +77,16 @@ describe('API ROUTES', () => {
           );
           expect(response.body[0].gender).to.equal('Female');
           expect(response.body[0].age).to.equal('Ages 18-19');
-          expect(response.body[0].ethnicity).to.equal("White, non-Hispanic");
+          expect(response.body[0].ethnicity).to.equal('White, non-Hispanic');
+        });
+    });
+
+    it('should return 404 if id does not exist', () => {
+      return chai
+        .request(server)
+        .get('/api/v1/groups/1000')
+        .then(response => {
+          expect(response).to.have.status(404);
         });
     });
   });
@@ -112,6 +121,15 @@ describe('API ROUTES', () => {
           expect(response.body[0].unemployment_score).to.equal('13');
           expect(response.body[0].year).to.equal('1980');
           expect(response.body[0].group_id).to.equal(1);
+        });
+    });
+
+    it('should return 404 if id does not exist', () => {
+      return chai
+        .request(server)
+        .get('/api/v1/years/1000')
+        .then(response => {
+          expect(response).to.have.status(404);
         });
     });
   });
