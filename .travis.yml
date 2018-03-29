@@ -5,6 +5,8 @@ services:
 - postgresql
 before_script:
 - psql -c 'CREATE DATABASE byob_test;' -U postgres
+script:
+  - npm run lint
 notifications:
 - email: false
 deploy:
