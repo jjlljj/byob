@@ -17,18 +17,18 @@ const checkAuth = (req, res, next) => {
   const { token } = req.body;
 
   if (!token) {
-    return res.status(403).send('response must contain a valid token');
+    return res.status(403).send({ error: 'request must contain a valid token' });
   } else {
     jwt.verify(token, app.get('secretKey'), (error, decoded) => {
       if (error) {
-        return res.status(403).send('invalid token');
+        return res.status(403).json({ error: 'invalid token' });
       } else if (!decoded.email.includes('@turing.io')) {
-        return response.status(403).send('not allowed');
+        return res.status(403).json({ error: 'not allowed' });
+      } else {
+        next();
       }
     });
   }
-
-  next();
 };
 
 app.set('secretKey', 'placeholderSecretKey');
@@ -241,7 +241,7 @@ app.patch('/api/v1/years/:id', checkAuth, (request, response) => {
 
 app.post('/authorize', (request, response) => {
   const { app_name, email } = request.body;
-  console.log(app_name);
+  
   if (email.includes('@turing.io')) {
     const token = jwt.sign({ email, app_name }, app.get('secretKey'), {
       expiresIn: '48h'
