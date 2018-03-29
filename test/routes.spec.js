@@ -195,7 +195,6 @@ describe('API ROUTES', () => {
           year: '3000',
           group_id: '1',
           unemployment_score: '100%',
-          token
         })
         .then(response => {
           response.should.have.status(201);
@@ -215,7 +214,6 @@ describe('API ROUTES', () => {
         .send({
           group_id: '1',
           unemployment_score: '100%',
-          token
         })
         .then(response => {
           response.should.have.status(422);
@@ -229,6 +227,7 @@ describe('API ROUTES', () => {
           throw err;
         });
     });
+
   });
 
   describe('PATCH /api/v1/groups/:id', () => {
@@ -253,6 +252,36 @@ describe('API ROUTES', () => {
           expect(response.body.error).to.equal('unable to update item');
         });
     });
+    
+    it('should return 403 when not passed a token', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/groups/1')
+        .send({ age: 'test2' })
+        .then(response => {
+          response.should.have.status(403);
+          response.body.should.be.a('object');
+          response.body.error.should.equal('request must contain a valid token')
+        })
+        .catch(err => {
+          throw err;
+        });
+    })
+
+    it('should return 403 when passed an invalid token', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/groups/1')
+        .send({ age: 'test2', token: 'test.test.test' })
+        .then(response => {
+          response.should.have.status(403);
+          response.body.should.be.a('object');
+          response.body.error.should.equal('invalid token')
+        })
+        .catch(err => {
+          throw err;
+        });
+    })
   });
 
   describe('PATCH /api/v1/years/:id', () => {
@@ -277,9 +306,39 @@ describe('API ROUTES', () => {
           expect(response.body.error).to.equal('unable to update item');
         });
     });
+
+    it('should return 403 when not passed a token', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/years/1')
+        .send({ age: 'test2' })
+        .then(response => {
+          response.should.have.status(403);
+          response.body.should.be.a('object');
+          response.body.error.should.equal('request must contain a valid token')
+        })
+        .catch(err => {
+          throw err;
+        });
+    })
+
+    it('should return 403 when passed an invalid token', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/years/1')
+        .send({ age: 'test2', token: 'test.test.test' })
+        .then(response => {
+          response.should.have.status(403);
+          response.body.should.be.a('object');
+          response.body.error.should.equal('invalid token')
+        })
+        .catch(err => {
+          throw err;
+        })
+    })
   });
 
-  describe('DELETE', () => {
+  describe('DELETE /api/v1/groups/:id', () => {
     it('should delete a group', () => {
       return chai
         .request(server)
@@ -301,6 +360,38 @@ describe('API ROUTES', () => {
         });
     });
 
+    it('should return 403 when not passed a token', () => {
+      return chai
+        .request(server)
+        .delete('/api/v1/groups/1')
+        .send({})
+        .then(response => {
+          response.should.have.status(403);
+          response.body.should.be.a('object');
+          response.body.error.should.equal('request must contain a valid token')
+        })
+        .catch(err => {
+          throw err;
+        });
+    })
+
+    it('should return 403 when passed an invalid token', () => {
+      return chai
+        .request(server)
+        .delete('/api/v1/groups/1')
+        .send({ token: 'test.test.test' })
+        .then(response => {
+          response.should.have.status(403);
+          response.body.should.be.a('object');
+          response.body.error.should.equal('invalid token')
+        })
+        .catch(err => {
+          throw err;
+        })
+    })
+  })
+
+  describe('DELETE /api/v1/years/:id', () => {
     it('should delete a year', () => {
       return chai
         .request(server)
@@ -320,7 +411,37 @@ describe('API ROUTES', () => {
         .then(response => {
           expect(response).to.have.status(404);
         });
-    });
+    });  
+
+    it('should return 403 when not passed a token', () => {
+      return chai
+        .request(server)
+        .delete('/api/v1/years/10')
+        .send({})
+        .then(response => {
+          response.should.have.status(403);
+          response.body.should.be.a('object');
+          response.body.error.should.equal('request must contain a valid token')
+        })
+        .catch(err => {
+          throw err;
+        });
+    })
+
+    it('should return 403 when passed an invalid token', () => {
+      return chai
+        .request(server)
+        .delete('/api/v1/years/10')
+        .send({ token: 'test.test.test' })
+        .then(response => {
+          response.should.have.status(403);
+          response.body.should.be.a('object');
+          response.body.error.should.equal('invalid token')
+        })
+        .catch(err => {
+          throw err;
+        })
+    })
   });
 
 });
