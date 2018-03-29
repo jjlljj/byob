@@ -141,6 +141,7 @@ describe('API ROUTES', () => {
           throw err;
         });
     });
+
   });
 
   describe('PATCH /api/v1/groups/:id', () => {
@@ -332,6 +333,7 @@ describe('API ROUTES', () => {
           year: '3000',
           group_id: '1',
           unemployment_score: '100%',
+          token
         })
         .then(response => {
           response.should.have.status(201);
@@ -351,6 +353,7 @@ describe('API ROUTES', () => {
         .send({
           group_id: '1',
           unemployment_score: '100%',
+          token
         })
         .then(response => {
           response.should.have.status(422);
@@ -364,8 +367,27 @@ describe('API ROUTES', () => {
           throw err;
         });
     });
-  });
 
+    it('should return 403 when passed an invalid token', () => {
+      return chai
+        .request(server)
+        .patch('/api/v1/years/1')
+        .send({
+          group_id: '1',
+          unemployment_score: '100%',
+          token: 'test.test.test'
+        })
+        .then(response => {
+          response.should.have.status(403);
+          response.body.should.be.a('object');
+          response.body.error.should.equal('invalid token')
+        })
+        .catch(err => {
+          throw err;
+        })
+    });
+
+  });
 
   describe('PATCH /api/v1/years/:id', () => {
     it('should update the expected group', () => {
