@@ -3,6 +3,7 @@ const expect = chai.expect;
 const should = chai.should();
 const chaiHttp = require('chai-http');
 const server = require('../server');
+const jwt = require('jsonwebtoken')
 const environment = process.env.NODE_ENV || 'test';
 const configuration = require('../knexfile')[environment];
 const db = require('knex')(configuration);
@@ -34,6 +35,9 @@ describe('Client Routes', () => {
 });
 
 describe('API ROUTES', () => {
+  
+  const token = jwt.sign({ email: 'test@turing.io', app_name: 'test App' },'placeholderSecretKey', {expiresIn: '48h'})
+
   beforeEach(done => {
     db.migrate.rollback().then(() => {
       db.migrate.latest().then(() => {
@@ -42,6 +46,7 @@ describe('API ROUTES', () => {
         });
       });
     });
+
   });
 
   describe('GET /api/v1/groups', () => {
@@ -143,7 +148,8 @@ describe('API ROUTES', () => {
           group: 'test group',
           ethnicity: 'test ethnicity',
           gender: 'test gender',
-          age: 'test age'
+          age: 'test age',
+          token
         })
         .then(response => {
           response.should.have.status(201);
@@ -163,7 +169,8 @@ describe('API ROUTES', () => {
         .send({
           group: 'test group',
           ethnicity: 'test ethnicity',
-          age: 'test age'
+          age: 'test age',
+          token
         })
         .then(response => {
           response.should.have.status(422);
@@ -187,7 +194,8 @@ describe('API ROUTES', () => {
         .send({
           year: '3000',
           group_id: '1',
-          unemployment_score: '100%'
+          unemployment_score: '100%',
+          token
         })
         .then(response => {
           response.should.have.status(201);
@@ -206,7 +214,8 @@ describe('API ROUTES', () => {
         .post('/api/v1/years')
         .send({
           group_id: '1',
-          unemployment_score: '100%'
+          unemployment_score: '100%',
+          token
         })
         .then(response => {
           response.should.have.status(422);
@@ -227,18 +236,18 @@ describe('API ROUTES', () => {
       return chai
         .request(server)
         .patch('/api/v1/groups/1')
-        .send({ age: 'test' })
+        .send({ age: 'test', token })
         .then(response => {
           response.should.have.status(200);
           expect(response.body).to.equal('Record successfully updated');
         });
     });
 
-    it('should return 404 if no record was updated', () => {
+    it('should return 422 if no record was updated', () => {
       return chai
         .request(server)
         .patch('/api/v1/groups/999')
-        .send({ age: 'test2' })
+        .send({ age: 'test2', token })
         .then(response => {
           response.should.have.status(422);
           expect(response.body.error).to.equal('unable to update item');
@@ -251,18 +260,18 @@ describe('API ROUTES', () => {
       return chai
         .request(server)
         .patch('/api/v1/years/1')
-        .send({ unemployment_score: 'test' })
+        .send({ unemployment_score: 'test', token })
         .then(response => {
           response.should.have.status(200);
           expect(response.body).to.equal('Record successfully updated');
         });
     });
 
-    it('should return 404 if no record was updated', () => {
+    it('should return 422 if no record was updated', () => {
       return chai
         .request(server)
         .patch('/api/v1/years/9999')
-        .send({ unemployment_score: 'test2' })
+        .send({ unemployment_score: 'test2', token })
         .then(response => {
           response.should.have.status(422);
           expect(response.body.error).to.equal('unable to update item');
@@ -275,6 +284,7 @@ describe('API ROUTES', () => {
       return chai
         .request(server)
         .delete('/api/v1/groups/1')
+        .send({token})
         .then(response => {
           expect(response).to.have.status(200);
           expect(response.body).to.equal(1);
@@ -285,6 +295,7 @@ describe('API ROUTES', () => {
       return chai
         .request(server)
         .delete('/api/v1/groups/2500')
+        .send({token})
         .then(response => {
           expect(response).to.have.status(404);
         });
@@ -294,6 +305,7 @@ describe('API ROUTES', () => {
       return chai
         .request(server)
         .delete('/api/v1/years/1')
+        .send({token})
         .then(response => {
           expect(response).to.have.status(200);
           expect(response.body).to.equal(1);
@@ -304,13 +316,11 @@ describe('API ROUTES', () => {
       return chai
         .request(server)
         .delete('/api/v1/years/2500')
+        .send({token})
         .then(response => {
           expect(response).to.have.status(404);
         });
     });
   });
 
-  it('should be a passing test suite', () => {
-    true.should.equal(true);
-  });
 });
