@@ -93,6 +93,50 @@ app.delete('/api/v1/groups/:id', checkAuth, (request, response) => {
     });
 });
 
+app.post('/api/v1/groups', checkAuth, (request, response) => {
+  const { group, ethnicity, age, gender } = request.body;
+  const newGroup = { group, ethnicity, age, gender };
+  for (let requiredParameter of ['group', 'ethnicity', 'age', 'gender']) {
+    if (!newGroup[requiredParameter]) {
+      return response.status(422).send({
+        error: `Expected format: { group: <string>, ethnicity: <string>, gender: <string>, age: <string> } You're missing a "${requiredParameter}" property`
+      });
+    }
+  }
+
+  db('groups')
+    .insert(newGroup, 'id')
+    .then(group => {
+      response.status(201).json({ id: group[0] });
+    })
+    .catch(error => {
+      response.status(500).json({ error });
+    });
+});
+
+app.patch('/api/v1/groups/:id', checkAuth, (request, response) => {
+  const { id } = request.params;
+  const { group, gender, age, ethnicity } = request.body;
+
+  db('groups')
+    .where('id', id)
+    .update({
+      group,
+      gender,
+      age,
+      ethnicity
+    })
+    .then(updated => {
+      if (!updated) {
+        return response.status(422).json({ error: 'unable to update item' });
+      }
+      response.status(200).json('Record successfully updated');
+    })
+    .catch(error => {
+      response.status(500).json({ error });
+    });
+});
+
 app.get('/api/v1/years', (request, response) => {
   const { group_id }  = request.query;
 
@@ -137,26 +181,6 @@ app.get('/api/v1/years/:id', (request, response) => {
     });
 });
 
-app.post('/api/v1/groups', checkAuth, (request, response) => {
-  const { group, ethnicity, age, gender } = request.body;
-  const newGroup = { group, ethnicity, age, gender };
-  for (let requiredParameter of ['group', 'ethnicity', 'age', 'gender']) {
-    if (!newGroup[requiredParameter]) {
-      return response.status(422).send({
-        error: `Expected format: { group: <string>, ethnicity: <string>, gender: <string>, age: <string> } You're missing a "${requiredParameter}" property`
-      });
-    }
-  }
-
-  db('groups')
-    .insert(newGroup, 'id')
-    .then(group => {
-      response.status(201).json({ id: group[0] });
-    })
-    .catch(error => {
-      response.status(500).json({ error });
-    });
-});
 
 app.post('/api/v1/years', checkAuth, (request, response) => {
   const { year, group_id, unemployment_score } = request.body;
@@ -195,28 +219,6 @@ app.delete('/api/v1/years/:id', checkAuth, (request, response) => {
     });
 });
 
-app.patch('/api/v1/groups/:id', checkAuth, (request, response) => {
-  const { id } = request.params;
-  const { group, gender, age, ethnicity } = request.body;
-
-  db('groups')
-    .where('id', id)
-    .update({
-      group,
-      gender,
-      age,
-      ethnicity
-    })
-    .then(updated => {
-      if (!updated) {
-        return response.status(422).json({ error: 'unable to update item' });
-      }
-      response.status(200).json('Record successfully updated');
-    })
-    .catch(error => {
-      response.status(500).json({ error });
-    });
-});
 
 app.patch('/api/v1/years/:id', checkAuth, (request, response) => {
   const { id } = request.params;
