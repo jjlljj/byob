@@ -14,7 +14,11 @@ submit.addEventListener('click', event => {
   })
     .then(response => response.json())
     .then(json => {
-      append(json);
+      if (json.token) {
+        append(json);
+      } else {
+        append({token: 'ERROR, must use a turing.io email address' });
+      }
     });
 });
 

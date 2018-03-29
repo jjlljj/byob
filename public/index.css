@@ -8,6 +8,7 @@ header {
   justify-content: center;
   height: 50px;
   background-color: darkgrey;
+  font-size: 1.5em;
 }
 
 #form {
@@ -16,12 +17,12 @@ header {
 }
 
 label {
-margin: 10px;
-font-size: 1em;
+  margin: 10px 0;
+  font-size: 1em;
 }
 
 input {
-  margin: 10px;
+  margin: 10px 0;
 }
 
 #submit {
