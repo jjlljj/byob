@@ -17,7 +17,7 @@ submit.addEventListener('click', event => {
       if (json.token) {
         append(json);
       } else {
-        append({token: 'ERROR, must use a turing.io email address' });
+        append({ token: 'ERROR, must use a turing.io email address' });
       }
     });
 });
@@ -25,6 +25,9 @@ submit.addEventListener('click', event => {
 const append = token => {
   const container = document.querySelector('#token');
   const parent = document.createElement('div');
+  if (container.innerHTML) {
+    container.innerHTML = '';
+  }
   parent.setAttribute('class', 'card');
   parent.innerHTML = `
   <h2>Token: ${token.token}</h2>
