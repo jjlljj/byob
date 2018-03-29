@@ -1,15 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
   <link rel="stylesheet" href="./reset.css">
   <link rel="stylesheet" href="./index.css">
   <title>BYOB</title>
 </head>
+
 <body>
-  <h1>BYOB Project</h1>
-  
+  <h1>Request a JSON Web Token</h1>
+  <section id="from">
+    <form>
+      <label for="app">App Name</label>
+      <input id="app" type="text" name="app_name" placeholder="app_name" />
+      <label for="email">Email</label>
+      <input id="email" type="text" name="email" placeholder="email" />
+      <input type="submit" id="submit"/>
+    </form>
+  </section>
+  <section id="token"></section>
+  <script src="./scripts/script.js"></script>
 </body>
+
 </html>
