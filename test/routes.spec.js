@@ -443,7 +443,7 @@ describe('API ROUTES', () => {
     })
   });
 
-  describe.only('POST /authorize', () => {
+  describe('POST /authorize', () => {
     it('should respond with the JWT when passed the expected params', () => {
       return chai
         .request(server)
