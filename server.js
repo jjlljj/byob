@@ -15,6 +15,25 @@ const httpsRedirect = (req, res, next) => {
   next();
 };
 
+const checkAuth = (req, res, next) => {
+  const { token } = req.body
+
+  if (!token) {
+    return res.status(403).send('response must contain a valid token')
+  } else {
+    jwt.verify(token, app.get('secretKey'), (error, decoded) => {
+      if (error) {
+        return res.status(403).send('invalid token')
+      } else if (!decoded.email.includes('@turing.io')) {
+        return response.status(403).send('not allowed')
+      }
+    })
+  }
+
+  next()
+}
+
+app.set('secretKey', 'placeholderSecretKey')
 app.set('port', process.env.PORT || 3000);
 app.locals.title = 'BYOB';
 app.use(bodyParser.json());
@@ -54,7 +73,7 @@ app.get('/api/v1/groups/:id', (request, response) => {
     });
 });
 
-app.delete('/api/v1/groups/:id', (request, response) => {
+app.delete('/api/v1/groups/:id', checkAuth, (request, response) => {
   const { id } = request.params;
   db('years')
     .where('group_id', id)
@@ -142,7 +161,7 @@ app.post('/api/v1/years', (request, response) => {
     });
 });
 
-app.delete('/api/v1/years/:id', (request, response) => {
+app.delete('/api/v1/years/:id', checkAuth, (request, response) => {
   const { id } = request.params;
   db('years')
     .where('id', id)
@@ -160,7 +179,7 @@ app.delete('/api/v1/years/:id', (request, response) => {
 });
 
 
-app.patch('/api/v1/groups/:id', (request, response) => {
+app.patch('/api/v1/groups/:id', checkAuth, (request, response) => {
   const { id } = request.params;
   const { group, gender, age, ethnicity } = request.body
 
@@ -183,7 +202,7 @@ app.patch('/api/v1/groups/:id', (request, response) => {
     })
 })
 
-app.patch('/api/v1/years/:id', (request, response) => {
+app.patch('/api/v1/years/:id', checkAuth, (request, response) => {
   const { id } = request.params;
   const { unemployment_score, year } = request.body
 
@@ -202,6 +221,18 @@ app.patch('/api/v1/years/:id', (request, response) => {
     .catch(error => {
       response.status(500).json({error})
     })
+})
+
+app.post('/api/v1/authorize', (request, response) => {
+  const { app_name, email } = request.body
+  console.log(app_name)
+  if (email.includes('@turing.io')) {
+    const token = jwt.sign({ email, app_name }, app.get('secretKey'), {expiresIn: '48h'})
+    
+    return response.status(201).json({ token })
+  }
+  response.status(404).json({error: 'not valid'})
+
 })
 
 
