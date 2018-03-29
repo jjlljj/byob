@@ -116,7 +116,7 @@ app.post('/api/v1/groups', (request, response) => {
 
   db('groups').insert(newGroup, 'id')
     .then(group => {
-      response.status(201).json({ id: group[0]})
+      response.status(201).json({ id: group[0]});
     })
     .catch(error => {
       response.status(500).json({ error });
@@ -135,7 +135,7 @@ app.post('/api/v1/years', (request, response) => {
 
   db('years').insert(newYear, 'id')
     .then(year => {
-      response.status(201).json({ id: year[0]})
+      response.status(201).json({ id: year[0]});
     })
     .catch(error => {
       response.status(500).json({ error });
@@ -195,14 +195,14 @@ app.patch('/api/v1/years/:id', (request, response) => {
     })
     .then( updated => {
       if ( !updated ) {
-        return response.status(422).json({error: 'unable to update item'})
+        return response.status(422).json({error: 'unable to update item'});
       }
-      response.status(200).json('Record successfully updated')
+      response.status(200).json('Record successfully updated');
     })
     .catch(error => {
-      response.status(500).json({error})
-    })
-})
+      response.status(500).json({error});
+    });
+});
 
 
 app.use((req, res, next) => {

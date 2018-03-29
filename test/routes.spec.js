@@ -135,9 +135,8 @@ describe('API ROUTES', () => {
   });
 
   describe('POST /api/v1/groups', () => {
-
     it('should post a new group that has complete params', () => {
-      return chai 
+      return chai
         .request(server)
         .post('/api/v1/groups')
         .send({
@@ -171,18 +170,18 @@ describe('API ROUTES', () => {
           response.should.be.json;
           response.body.should.be.a('object');
           response.body.error.should.equal(
-            `Expected format: { group: <string>, ethnicity: <string>, gender: <string>, age: <string> } You're missing a "gender" property`);
+            `Expected format: { group: <string>, ethnicity: <string>, gender: <string>, age: <string> } You're missing a "gender" property`
+          );
         })
         .catch(err => {
           throw err;
         });
-      })
-  })
+    });
+  });
 
   describe('POST /api/v1/years', () => {
-
     it('should post a new year to a group that has complete params', () => {
-      return chai 
+      return chai
         .request(server)
         .post('/api/v1/years')
         .send({
@@ -214,13 +213,14 @@ describe('API ROUTES', () => {
           response.should.be.json;
           response.body.should.be.a('object');
           response.body.error.should.equal(
-            `Expected format: { year: <string>, group_id: <string>, unemployment_score: <string> } You're missing a "year" property`);
+            `Expected format: { year: <string>, group_id: <string>, unemployment_score: <string> } You're missing a "year" property`
+          );
         })
         .catch(err => {
           throw err;
         });
-      })
-  })
+    });
+  });
 
   describe('PATCH /api/v1/groups/:id', () => {
     it('should update the expected group', () => {
@@ -230,9 +230,9 @@ describe('API ROUTES', () => {
         .send({ age: 'test' })
         .then(response => {
           response.should.have.status(200);
-          expect(response.body).to.equal('Record successfully updated')
-        })
-    })
+          expect(response.body).to.equal('Record successfully updated');
+        });
+    });
 
     it('should return 404 if no record was updated', () => {
       return chai
@@ -241,10 +241,10 @@ describe('API ROUTES', () => {
         .send({ age: 'test2' })
         .then(response => {
           response.should.have.status(422);
-          expect(response.body.error).to.equal('unable to update item')
-        })
-    })
-  })
+          expect(response.body.error).to.equal('unable to update item');
+        });
+    });
+  });
 
   describe('PATCH /api/v1/years/:id', () => {
     it('should update the expected group', () => {
@@ -254,9 +254,9 @@ describe('API ROUTES', () => {
         .send({ unemployment_score: 'test' })
         .then(response => {
           response.should.have.status(200);
-          expect(response.body).to.equal('Record successfully updated')
-        })
-    })
+          expect(response.body).to.equal('Record successfully updated');
+        });
+    });
 
     it('should return 404 if no record was updated', () => {
       return chai
@@ -265,10 +265,50 @@ describe('API ROUTES', () => {
         .send({ unemployment_score: 'test2' })
         .then(response => {
           response.should.have.status(422);
-          expect(response.body.error).to.equal('unable to update item')
-        })
-    })
-  })
+          expect(response.body.error).to.equal('unable to update item');
+        });
+    });
+  });
+
+  describe('DELETE', () => {
+    it('should delete a group', () => {
+      return chai
+        .request(server)
+        .delete('/api/v1/groups/1')
+        .then(response => {
+          expect(response).to.have.status(200);
+          expect(response.body).to.equal(1);
+        });
+    });
+
+    it('should return 404 if delete group incorrect', () => {
+      return chai
+        .request(server)
+        .delete('/api/v1/groups/2500')
+        .then(response => {
+          expect(response).to.have.status(404);
+        });
+    });
+
+    it('should delete a year', () => {
+      return chai
+        .request(server)
+        .delete('/api/v1/years/1')
+        .then(response => {
+          expect(response).to.have.status(200);
+          expect(response.body).to.equal(1);
+        });
+    });
+
+    it('should return 404 if delete year incorrect', () => {
+      return chai
+        .request(server)
+        .delete('/api/v1/years/2500')
+        .then(response => {
+          expect(response).to.have.status(404);
+        });
+    });
+  });
 
   it('should be a passing test suite', () => {
     true.should.equal(true);
