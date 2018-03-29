@@ -42,6 +42,7 @@ describe('API ROUTES', () => {
         });
       });
     });
+
   });
 
   describe('GET /api/v1/groups', () => {
@@ -234,7 +235,7 @@ describe('API ROUTES', () => {
         });
     });
 
-    it('should return 404 if no record was updated', () => {
+    it('should return 422 if no record was updated', () => {
       return chai
         .request(server)
         .patch('/api/v1/groups/999')
@@ -258,7 +259,7 @@ describe('API ROUTES', () => {
         });
     });
 
-    it('should return 404 if no record was updated', () => {
+    it('should return 422 if no record was updated', () => {
       return chai
         .request(server)
         .patch('/api/v1/years/9999')
