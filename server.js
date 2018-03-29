@@ -97,14 +97,31 @@ app.delete('/api/v1/groups/:id', checkAuth, (request, response) => {
 });
 
 app.get('/api/v1/years', (request, response) => {
-  db('years')
-    .select()
-    .then(year => {
-      response.status(200).json(year);
+  const { group_id }  = request.query;
+
+  if ( group_id ) {
+    db('years')
+      .where('group_id', group_id)
+      .select()
+    .then(years => {
+      if (!years.length) {
+        return response.status(404).json({'error':'item requested not found'});
+      }
+      response.status(200).json(years);
     })
     .catch(error => {
       response.status(500).json({ error });
     });
+  } else {
+    db('years')
+      .select()
+      .then(year => {
+        response.status(200).json(year);
+      })
+      .catch(error => {
+        response.status(500).json({ error });
+      });
+  }
 });
 
 app.get('/api/v1/years/:id', (request, response) => {
