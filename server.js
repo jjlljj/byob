@@ -97,8 +97,7 @@ app.delete('/api/v1/groups/:id', checkAuth, (request, response) => {
 });
 
 app.get('/api/v1/years', (request, response) => {
-  const group_id  = request.param('group_id')
-  console.log(group_id)
+  const { group_id }  = request.query;
 
   if ( group_id ) {
     db('years')

@@ -267,6 +267,37 @@ describe('API ROUTES', () => {
         });
     });
 
+    it('should return all years for a requested group_id', () => {
+      return chai
+        .request(server)
+        .get('/api/v1/years?group_id=1')
+        .then(response => {
+          response.should.have.status(200);
+          response.body.should.be.a('array');
+          expect(response.body[0]).to.have.property('id');
+          expect(response.body[0]).to.have.property('unemployment_score');
+          expect(response.body[0]).to.have.property('year');
+          expect(response.body[0]).to.have.property('group_id');
+          expect(response.body[0].group_id).to.equal(1)
+          expect(response.body.length).to.equal(68)
+        })
+        .catch(error => {
+          throw error
+        })
+    })
+
+    it('should return 404 if years do not exist for requested group_id', () => {
+      return chai
+        .request(server)
+        .get('/api/v1/years?group_id=1000')
+        .then(response => {
+          expect(response).to.have.status(404);
+        });
+    });
+
+  });
+
+  describe('GET /api/v1/years/:id', () => {
     it('should return individual years by id', () => {
       return chai
         .request(server)
