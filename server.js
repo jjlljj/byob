@@ -137,7 +137,7 @@ app.get('/api/v1/years/:id', (request, response) => {
     });
 });
 
-app.post('/api/v1/groups', (request, response) => {
+app.post('/api/v1/groups', checkAuth, (request, response) => {
   const { group, ethnicity, age, gender } = request.body;
   const newGroup = { group, ethnicity, age, gender };
   for (let requiredParameter of ['group', 'ethnicity', 'age', 'gender']) {
@@ -158,7 +158,7 @@ app.post('/api/v1/groups', (request, response) => {
     });
 });
 
-app.post('/api/v1/years', (request, response) => {
+app.post('/api/v1/years', checkAuth, (request, response) => {
   const { year, group_id, unemployment_score } = request.body;
   const newYear = { year, group_id, unemployment_score };
   for (let requiredParameter of ['year', 'group_id', 'unemployment_score'])
