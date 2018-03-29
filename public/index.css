@@ -2,3 +2,54 @@ body {
   font-family: 'Open Sans', sans-serif;
   background-color: grey;
 }
+
+header {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  background-color: darkgrey;
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+}
+
+label {
+margin: 10px;
+font-size: 1em;
+}
+
+input {
+  margin: 10px;
+}
+
+#submit {
+  background-color: darkgrey;
+  border: 2px solid white;
+  padding: 5px;
+  font-size: 1em;
+  outline: none;
+}
+
+form {
+  margin: 0 auto;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+
+#token {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background-color: darkgrey;
+  border: 2px solid white;
+  margin: 10 auto;
+  width: 70%;
+  text-overflow: wrap;
+  margin: 10px;
+  overflow-wrap: break-word;
+}
