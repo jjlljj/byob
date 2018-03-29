@@ -105,7 +105,7 @@ app.get('/api/v1/years', (request, response) => {
       .where('group_id', group_id)
       .select()
     .then(years => {
-      if (!years[0]) {
+      if (!years.length) {
         return response.status(404).json({'error':'item requested not found'});
       }
       response.status(200).json(years);
