@@ -224,9 +224,8 @@ app.patch('/api/v1/years/:id', checkAuth, (request, response) => {
     });
 });
 
-app.post('/api/v1/authorize', (request, response) => {
+app.post('/authorize', (request, response) => {
   const { app_name, email } = request.body
-  console.log(app_name)
   if (email.includes('@turing.io')) {
     const token = jwt.sign({ email, app_name }, app.get('secretKey'), {expiresIn: '48h'})
     

@@ -443,4 +443,35 @@ describe('API ROUTES', () => {
     })
   });
 
+  describe.only('POST /authorize', () => {
+    it('should respond with the JWT when passed the expected params', () => {
+      return chai
+        .request(server)
+        .post('/authorize')
+        .send({ app_name: 'test project', email: 'test@turing.io' })
+        .then( response => {
+          response.should.have.status(201)
+          response.body.should.be.a('object')
+          response.body.token.should.be.a('string')
+        })
+        .catch( err => {
+          throw err;
+        })
+    })
+
+    it('should respond with 404 if not passed a valid email', () => {
+      return chai
+        .request(server)
+        .post('/authorize')
+        .send({ app_name: 'test project', email: 'test@notturing.io' })
+        .then( response => {
+          response.should.have.status(404)
+          response.body.should.be.a('object')
+          response.body.error.should.equal('not valid')
+        })
+        .catch( err => {
+          throw err;
+        })
+    })
+  })
 });
