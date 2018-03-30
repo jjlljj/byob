@@ -280,8 +280,8 @@ describe('API ROUTES', () => {
           expect(response.body[0]).to.have.property('unemployment_score');
           expect(response.body[0]).to.have.property('year');
           expect(response.body[0]).to.have.property('group_id');
-          expect(response.body[0].group_id).to.equal(1)
-          expect(response.body.length).to.equal(68)
+          expect(response.body[0].group_id).to.equal(1);
+          expect(response.body.length).to.equal(68);
         })
         .catch(error => {
           throw error
