@@ -36,7 +36,7 @@ describe('Client Routes', () => {
 
 describe('API ROUTES', () => {
   
-  const token = jwt.sign({ email: 'test@turing.io', app_name: 'test App' },'placeholderSecretKey', {expiresIn: '48h'})
+  const token = jwt.sign({ email: 'test@turing.io', app_name: 'test App' }, process.env.SECRET_KEY, {expiresIn: '48h'});
 
   beforeEach(done => {
     db.migrate.rollback().then(() => {

@@ -5,6 +5,9 @@ const jwt = require('jsonwebtoken');
 const environment = process.env.NODE_ENV || 'development';
 const configuration = require('./knexfile')[environment];
 const db = require('knex')(configuration);
+require('dotenv').config();
+console.log(process.env.SECRET_KEY);
+
 
 const httpsRedirect = (req, res, next) => {
   if (req.headers['x-forwarded-proto'] !== 'https') {
@@ -13,13 +16,14 @@ const httpsRedirect = (req, res, next) => {
   next();
 };
 
+
 const checkAuth = (req, res, next) => {
   const { token } = req.body;
-
+  
   if (!token) {
     return res.status(403).send({ error: 'request must contain a valid token' });
   } else {
-    jwt.verify(token, app.get('secretKey'), (error, decoded) => {
+    jwt.verify(token, process.env.SECRET_KEY, (error, decoded) => {
       if (error) {
         return res.status(403).json({ error: 'invalid token' });
       } else if (!decoded.email.includes('@turing.io')) {
@@ -31,7 +35,8 @@ const checkAuth = (req, res, next) => {
   }
 };
 
-app.set('secretKey', 'placeholderSecretKey');
+
+// app.set('SECRET_KEY', 'placeholderSecretKey');
 app.set('port', process.env.PORT || 3000);
 app.locals.title = 'BYOB';
 app.use(bodyParser.json());
@@ -245,7 +250,7 @@ app.post('/authorize', (request, response) => {
   const { app_name, email } = request.body;
   
   if (email.includes('@turing.io')) {
-    const token = jwt.sign({ email, app_name }, app.get('secretKey'), {
+    const token = jwt.sign({ email, app_name }, process.env.SECRET_KEY, {
       expiresIn: '48h'
     });
 
