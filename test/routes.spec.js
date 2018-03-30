@@ -1,3 +1,4 @@
+/* eslint-disable-next-line */
 const chai = require('chai');
 const expect = chai.expect;
 const should = chai.should();
