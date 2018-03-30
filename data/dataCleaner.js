@@ -1,8 +1,6 @@
 const fs = require('fs');
 const data = require('./data_uncleaned.json');
 
-const someData = data.slice(0, 3);
-
 function cleanEmploymentData(data) {
   const cleanedData = data.reduce((acc, obj) => {
     let { FIELD1, FIELD2, FIELD4, FIELD5, FIELD6 } = obj;

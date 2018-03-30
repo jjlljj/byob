@@ -2,11 +2,11 @@ const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
 const jwt = require('jsonwebtoken');
+/* eslint-disable-next-line */
 const environment = process.env.NODE_ENV || 'development';
 const configuration = require('./knexfile')[environment];
 const db = require('knex')(configuration);
 require('dotenv').config();
-console.log(process.env.SECRET_KEY);
 
 
 const httpsRedirect = (req, res, next) => {
@@ -16,13 +16,15 @@ const httpsRedirect = (req, res, next) => {
   next();
 };
 
-
 const checkAuth = (req, res, next) => {
   const { token } = req.body;
-  
+
   if (!token) {
-    return res.status(403).send({ error: 'request must contain a valid token' });
+    return res
+      .status(403)
+      .send({ error: 'request must contain a valid token' });
   } else {
+    /* eslint-disable-next-line */
     jwt.verify(token, process.env.SECRET_KEY, (error, decoded) => {
       if (error) {
         return res.status(403).json({ error: 'invalid token' });
@@ -34,9 +36,7 @@ const checkAuth = (req, res, next) => {
     });
   }
 };
-
-
-// app.set('SECRET_KEY', 'placeholderSecretKey');
+/* eslint-disable-next-line */
 app.set('port', process.env.PORT || 3000);
 app.locals.title = 'BYOB';
 app.use(bodyParser.json());
@@ -46,7 +46,7 @@ if (environment === 'production') {
   app.use(httpsRedirect);
 }
 
-app.get('/', (request, response) => {});
+app.get('/', () => {});
 
 app.get('/api/v1/groups', (request, response) => {
   db('groups')
@@ -143,21 +143,23 @@ app.patch('/api/v1/groups/:id', checkAuth, (request, response) => {
 });
 
 app.get('/api/v1/years', (request, response) => {
-  const { group_id }  = request.query;
+  const { group_id } = request.query;
 
-  if ( group_id ) {
+  if (group_id) {
     db('years')
       .where('group_id', group_id)
       .select()
-    .then(years => {
-      if (!years.length) {
-        return response.status(404).json({'error':'item requested not found'});
-      }
-      response.status(200).json(years);
-    })
-    .catch(error => {
-      response.status(500).json({ error });
-    });
+      .then(years => {
+        if (!years.length) {
+          return response
+            .status(404)
+            .json({ error: 'item requested not found' });
+        }
+        response.status(200).json(years);
+      })
+      .catch(error => {
+        response.status(500).json({ error });
+      });
   } else {
     db('years')
       .select()
@@ -185,7 +187,6 @@ app.get('/api/v1/years/:id', (request, response) => {
       response.status(500).json({ error });
     });
 });
-
 
 app.post('/api/v1/years', checkAuth, (request, response) => {
   const { year, group_id, unemployment_score } = request.body;
@@ -224,7 +225,6 @@ app.delete('/api/v1/years/:id', checkAuth, (request, response) => {
     });
 });
 
-
 app.patch('/api/v1/years/:id', checkAuth, (request, response) => {
   const { id } = request.params;
   const { unemployment_score, year } = request.body;
@@ -248,8 +248,9 @@ app.patch('/api/v1/years/:id', checkAuth, (request, response) => {
 
 app.post('/authorize', (request, response) => {
   const { app_name, email } = request.body;
-  
+
   if (email.includes('@turing.io')) {
+    /* eslint-disable-next-line */
     const token = jwt.sign({ email, app_name }, process.env.SECRET_KEY, {
       expiresIn: '48h'
     });
@@ -259,11 +260,12 @@ app.post('/authorize', (request, response) => {
   response.status(404).json({ error: 'not valid' });
 });
 
-app.use((req, res, next) => {
-  res.status(404).send("Sorry can't find that!");
+app.use((req, res) => {
+  res.status(404).send('Sorry can\'t find that!');
 });
 
 app.listen(app.get('port'), () => {
+  /* eslint-disable-next-line */
   console.log(`${app.locals.title} running on port ${app.get('port')}`);
 });
 
