@@ -11,6 +11,16 @@ const db = require('knex')(configuration);
 
 chai.use(chaiHttp);
 
+// beforeEach(done => {
+//   database.migrate.rollback().then(() => {
+//     database.migrate.latest().then(() => {
+//       return database.seed.run().then(() => {
+//         done();
+//       });
+//     });
+//   });
+// });
+
 describe('Client Routes', () => {
   beforeEach(done => {
     db.migrate.rollback().then(() => {

@@ -8,7 +8,6 @@ const configuration = require('./knexfile')[environment];
 const db = require('knex')(configuration);
 require('dotenv').config();
 
-
 const httpsRedirect = (req, res, next) => {
   if (req.headers['x-forwarded-proto'] !== 'https') {
     res.redirect('https://' + req.headers.host + req.url);
@@ -259,6 +258,10 @@ app.post('/authorize', (request, response) => {
   }
   response.status(404).json({ error: 'not valid' });
 });
+
+app.get('/', (request, response) => {
+  response.send('working express server')
+})
 
 app.use((req, res) => {
   res.status(404).send('Sorry can\'t find that!');
